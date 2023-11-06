@@ -20,11 +20,17 @@
     <loc>https://example.org/about/</loc>
     <lastmod>2023-11-05T17:38:57-05:00</lastmod>
   </url><url>
+    <loc>https://example.org/posts/stealth-flipper/</loc>
+    <lastmod>2023-11-05T12:30:42-05:00</lastmod>
+  </url><url>
     <loc>https://example.org/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
     <loc>https://example.org/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/paintboy-advance/</loc>
+    <lastmod>2021-10-26T12:10:57-05:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>

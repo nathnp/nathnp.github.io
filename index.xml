@@ -69,5 +69,20 @@ Keyboard: WASD VP3 w/ MX Blues1</description>
 This is my blog. I mostly use this place as a place to post longer form content. Mostly of me rambling off about something. Posts here will mostly be about things I’m interested in, or whatever is on my mind.
 If for some terrifying reason you like this crap, you can subscribe via RSS.</description>
     </item>
+    <item>
+      <title>Stealth Flipper</title>
+      <link>https://example.org/posts/stealth-flipper/</link>
+      <pubDate>Sun, 05 Nov 2023 12:30:42 -0500</pubDate>
+      <guid>https://example.org/posts/stealth-flipper/</guid>
+      <description>Being More Stealthy With A Flipper Let&amp;rsquo;s be honest, most flipper users use the flipper to dick around. You know, pop Tesla charge covers, set off CVS alcohol announcements (Bonus points if you do it in a state CVS can&amp;rsquo;t sell alcohol in (Like Maryland)). You know, fun stuff. The Flipper is unfortunately recognizable (Thanks to dumpsters like TikTok). So, if we&amp;rsquo;re going to have some fun in a CVS, or a Tesla store, we need to be a bit sneaky.</description>
+    </item>
+    <item>
+      <title>PaintBoy Advance</title>
+      <link>https://example.org/posts/paintboy-advance/</link>
+      <pubDate>Tue, 26 Oct 2021 12:10:57 -0500</pubDate>
+      <guid>https://example.org/posts/paintboy-advance/</guid>
+      <description>PaintBoy advance I&amp;rsquo;m not new to modded gameboys. I&amp;rsquo;ve put IPS screens in a DMG and an SP, and I built an all metal gameboy advance. Ive gotten the itch to build a custom GBA again after working on my girlfriend&amp;rsquo;s GBA, I just need an idea…
+This is what I&amp;rsquo;m thinking. This is made from painting the inside of a clear shell, allowing the supports to still be seen. This isn&amp;rsquo;t mine it&amp;rsquo;s a screenshot from this YouTube vid.</description>
+    </item>
   </channel>
 </rss>
