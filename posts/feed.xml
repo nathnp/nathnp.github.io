@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nathan&#39;s Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Nathan&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
+    <atom:link href="https://example.org/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stealth Flipper</title>
+      <link>https://example.org/posts/stealth-flipper/</link>
+      <pubDate>Wed, 01 Nov 2023 12:30:42 -0500</pubDate>
+      <guid>https://example.org/posts/stealth-flipper/</guid>
+      <description>Nov 1, 2023
+Let&amp;rsquo;s be honest, most flipper users use the flipper to dick around. You know, pop Tesla charge covers, set off CVS alcohol announcements (Bonus points if you do it in a state CVS can&amp;rsquo;t sell alcohol in (Like Maryland)). You know, fun stuff. The Flipper is unfortunately recognizable (Thanks to dumpsters like TikTok). So, if we&amp;rsquo;re going to have some fun in a CVS, or a Tesla store, we need to be a bit sneaky.</description>
+    </item>
+    <item>
+      <title>Making a Fast As Hell Flash Drive</title>
+      <link>https://example.org/posts/fast-flashdrive/</link>
+      <pubDate>Fri, 27 Oct 2023 10:26:18 -0500</pubDate>
+      <guid>https://example.org/posts/fast-flashdrive/</guid>
+      <description>Oct 27, 2023
+A while back, I upgraded the storage in my Steam Deck. Going from 512GB, to 2TB. The upgrade was so worth it. But, as a result, I had a 512GB SSD just sitting around.
+After a while, I ended up ordering an NVME SSD enclosure.
+After chucking the SSD in there, and formatting it. I now have a little, fast as hell, USB drive. That I can also use if I need to image other NVME drives.</description>
+    </item>
+    <item>
+      <title>Turning Off Analytics For Now</title>
+      <link>https://example.org/posts/turning-off-analytics/</link>
+      <pubDate>Thu, 26 Oct 2023 22:51:17 -0500</pubDate>
+      <guid>https://example.org/posts/turning-off-analytics/</guid>
+      <description>Oct 26, 2023
+For the past month, I&amp;rsquo;ve been running analytics on both of my websites. The service I&amp;rsquo;ve been using for this is Plausible.io. I went with them for a couple of reasons. Mainly, they didn&amp;rsquo;t look hungry for personal data. I&amp;rsquo;ve been enjoying them quite a lot. They have a good, very easy to use interface. That&amp;rsquo;s also not over whelming. But, I&amp;rsquo;m going to be turning analytics off, at least for now.</description>
+    </item>
+    <item>
+      <title>The Secret Guest Network</title>
+      <link>https://example.org/posts/secret-guest-network/</link>
+      <pubDate>Sun, 22 Oct 2023 22:52:29 -0500</pubDate>
+      <guid>https://example.org/posts/secret-guest-network/</guid>
+      <description>Oct 22, 2023
+Imagine this, you have some people over, and they want the password to your WiFi. You trust them, but not “you can be on my network” trust them. So you give them the guest network login. They get mad and leave, and now you&amp;rsquo;re down a couple friends. But what if you could have a hidden guest network, that looks just like your main one, maybe that would let you keep some friends.</description>
+    </item>
+    <item>
+      <title>Flight Update 3</title>
+      <link>https://example.org/posts/flight-update-3/</link>
+      <pubDate>Mon, 21 Aug 2023 23:33:55 -0500</pubDate>
+      <guid>https://example.org/posts/flight-update-3/</guid>
+      <description>Aug 21, 2023
+I am now on my way from RDU to DEN. After everyone getting off at RDU (all but 16), and a headcount was taken, we were able to move seats. I moved from the very back, to the very front. Hoping to make a speedy exit at DEN.
+I mentioned at the end of my last post, that my in flight entertainment is a bunch of plane crash documentaries.</description>
+    </item>
+    <item>
+      <title>Flight Update 2</title>
+      <link>https://example.org/posts/flight-update-2/</link>
+      <pubDate>Mon, 21 Aug 2023 23:33:22 -0500</pubDate>
+      <guid>https://example.org/posts/flight-update-2/</guid>
+      <description>Aug 21, 2023
+I am on a plane, crazy I know. First I was scheduled for one flight, then I got bumped to another, but you read that (I hope). When I left off I was at gate B8 at BWI, things changed pretty quick after posting. I took off from (get it) the gate to use the restroom, when I got back, the flight info display was showing a different flight.</description>
+    </item>
+    <item>
+      <title>Flight Update</title>
+      <link>https://example.org/posts/flight-update/</link>
+      <pubDate>Mon, 21 Aug 2023 23:31:34 -0500</pubDate>
+      <guid>https://example.org/posts/flight-update/</guid>
+      <description>Aug 21, 2023
+While waiting for my already delayed flight, I got a text saying that I had been rebooked to a new flight&amp;hellip;1 Later in the day. I was scheduled to fly from BWI at 13:40 to ATL, then to DEN. Now I&amp;rsquo;m going from BWI at 15:25 to RDU to DEN&amp;hellip; fun. And because I was rebooked, I&amp;rsquo;ve been dumped to boarding group C out of&amp;hellip; C. It&amp;rsquo;s not all bad, while I&amp;rsquo;ll be stopping in RDU, I&amp;rsquo;m not changing planes.</description>
+    </item>
+    <item>
+      <title>New Mastodon Handle</title>
+      <link>https://example.org/posts/new-mastodon/</link>
+      <pubDate>Mon, 21 Aug 2023 23:28:43 -0500</pubDate>
+      <guid>https://example.org/posts/new-mastodon/</guid>
+      <description>Aug 21, 2023
+With the shutting down of Crabland.social1, I&amp;rsquo;ve migrated my account to a new server. I&amp;rsquo;m using the same hosting provider Masto.host, just can&amp;rsquo;t beat their pricing. My new server is a singer user one (not running in single user mode, because I think it looks ugly), mstdn.nthp.me. I&amp;rsquo;m going to try and cut down the amount of domains I own (too many), so I&amp;rsquo;m going to be tying more things to my main one (this one).</description>
+    </item>
+    <item>
+      <title>The Day-cation</title>
+      <link>https://example.org/posts/the-day-cation/</link>
+      <pubDate>Wed, 02 Aug 2023 23:11:43 -0500</pubDate>
+      <guid>https://example.org/posts/the-day-cation/</guid>
+      <description>Aug 2, 2023
+Jump to: The Idea | Planing | The Trip | Thoughts Quick Links: Trip Photos
+I&amp;rsquo;ve always loved a good vacation, who doesn&amp;rsquo;t. But vacations take time. Time to plan. And time to take. Why not just take a day trip, you say. Why not to drive somewhere for a day, you ask. I live near DC, so a day trip is going down to DC for the whatever-ith time.</description>
+    </item>
+    <item>
+      <title>The Need to Immediately Replace</title>
+      <link>https://example.org/posts/need-to-immediately-replace/</link>
+      <pubDate>Sun, 02 Jul 2023 22:55:39 -0500</pubDate>
+      <guid>https://example.org/posts/need-to-immediately-replace/</guid>
+      <description>Jul 2, 2023
+With the closing down of third party Reddit apps, a number of people are moving over to things like kbin. And that has me wondering, are the new users of kbin, going to try and turn it into Reddit.
+This is something I’ve noticed over on Mastodon. When a large number a of new Mastodon users signed up, they very quickly started pushing for some new features. Those “new” features were just things that Twitter had, that Mastodon didn’t.</description>
+    </item>
+    <item>
+      <title>PaintBoy Advance</title>
+      <link>https://example.org/posts/paintboy-advance/</link>
+      <pubDate>Tue, 26 Oct 2021 12:10:57 -0500</pubDate>
+      <guid>https://example.org/posts/paintboy-advance/</guid>
+      <description>Oct 26, 2021
+PaintBoy advance I&amp;rsquo;m not new to modded gameboys. I&amp;rsquo;ve put IPS screens in a DMG and an SP, and I built an all metal gameboy advance. Ive gotten the itch to build a custom GBA again after working on my girlfriend&amp;rsquo;s GBA, I just need an idea…
+This is what I&amp;rsquo;m thinking. This is made from painting the inside of a clear shell, allowing the supports to still be seen.</description>
+    </item>
+  </channel>
+</rss>
