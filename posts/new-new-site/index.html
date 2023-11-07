@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>New New Site | Nathan&#39;s Site</title>
+<link rel="alternate" type="application/rss+xml" href="https://nthp.me/posts/feed.xml" title="Nathan's Site">
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
+
+
+      <script src="/js/main.23cd0c7d837263b9eaeb96ee2d9ccfa2969daa3fa00fa1c1fe8701a9b87251a1.js" integrity="sha256-I80MfYNyY7nq65buLZzPopadqj&#43;gD6HB/ocBqbhyUaE=" crossorigin="anonymous"></script>
+
+
+</head>
+<body>
+  <header>
+    <a href="/"><h1>Nathan&#39;s Site</h1></a>
+<a rel="me" href="https://fosstodon.org/@nthp"></a>
+
+  <nav>
+    <ul>
+    <li>
+      <a href="/">Home</a>
+    </li>
+    <li>
+      <a aria-current="true" class="ancestor" href="/posts/">Blog</a>
+    </li>
+    <li>
+      <a href="https://fosstodon.org/@nthp">Mastodon</a>
+    </li>
+    <li>
+      <a href="https://www.flickr.com/photos/197704187@N04/albums">Flickr</a>
+    </li>
+    <li>
+      <a href="/about/">About Me</a>
+    </li>
+    <li>
+      <a href="/extras/">Extras</a>
+    </li>
+    <li>
+      <a href="/contact/">Contact</a>
+    </li>
+    </ul>
+  </nav>
+
+
+  </header>
+  <main>
+    
+  <h1>New New Site</h1>
+
+  
+
+  <p>Nov 6, 2023</p>
+<p>Welp, this was a pain.</p>
+<p>Over the past few days, I have been working on moving my website. Why you might ask? Let&rsquo;s go over that.</p>
+<p>For a while, I was hosting this site on <a href="https://blot.im">blot.im</a>. Blot basically takes a bunch of markdown files you send them, and turns them into a website. I was a big fan of this. Simple, easy, and flexible. However, I started running into problems.</p>
+<p>When you send MD files to blot, blot will cache the files, and build a site out of them. Every now and then, that cache would get stuck. You could push new files, but they wouldn&rsquo;t appear on the visible site. The only way I had to force the cache to refresh, was to email the dev.</p>
+<h2 id="moving-to-something-new">Moving to Something New</h2>
+<p>After some thinking, I decided to go with a static site. I&rsquo;ll generate the site on my mac, then push it to a host. The first tool i tried out was <a href="https://www.11ty.dev">11ty</a> After a bunch of work, I got a super basic site up and running with <a href="https://www.11ty.dev">11ty</a> However, I didn&rsquo;t like it. <a href="https://www.11ty.dev">11ty</a> is written in Java Script, and I really don&rsquo;t like Java Script.</p>
+<p>The next tool I tried was <a href="https://jekyllrb.com">Jekyll</a>. Jekyll looked way nicer to work with. There was just one tiny problem. Ruby 3.1.3 didn&rsquo;t want to compile on my mac. So that was out.</p>
+<p>The tool that I went with (as you can see in the footer), is <a href="https://gohugo.io">Hugo</a>. Hugo, ships as a Go binary. This fixes the issue I had with Jekyll, and 11ty. Nothing to compile, and it&rsquo;s not Java Script. I&rsquo;m not going to go into how to use Hugo, has I&rsquo;m still learning it.</p>
+<p>As for hosting, I&rsquo;m using <a href="https://pages.github.com">Github Pages</a>. All I have to do, is drop the built site into a folder. and push that to Github.</p>
+<p>The best part of all of this. My hosting costs have gone from $4/month, to $0/month.</p>
+<p>I&rsquo;m still not done yet. The main thing remaining to to move all of my old posts over. That&rsquo;s going to take a bit. I&rsquo;ll get there though.</p>
+
+  
+
+
+  </main>
+  <footer>
+    <p>This site is made using <a href="https://gohugo.io">Hugo</a> <a href="https://simplecss.org">Simple.css</a> and <a href="https://pages.github.com">Github Pages</a></p>
+<p> Suport me on <a href="https://www.buymeacoffee.com/nthp">Buy Me a Coffee</a></p>
+<p>Copyright 2023. All rights reserved.</p>
+
+  </footer>
+</body>
+</html>
