@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
-    <atom:link href="https://example.org/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>New New Site</title>
       <link>https://example.org/posts/new-new-site/</link>
