@@ -9,6 +9,15 @@
     <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
     <atom:link href="https://example.org/posts/feed.xml" rel="self" type="application/rss" />
     <item>
+      <title>Pen-Pal Thing</title>
+      <link>https://example.org/posts/pen-pal-things/</link>
+      <pubDate>Wed, 08 Nov 2023 17:39:18 -0500</pubDate>
+      <guid>https://example.org/posts/pen-pal-things/</guid>
+      <description>Nov 11, 2023
+Recently, Kev posted a blog post about wanting pen-pals. He posed an a simple plan.
+If you&amp;rsquo;re interested in taking part, drop me an email using the reply button at the bottom of this post. We can then agree on a month that works for the pair of us. At the start of that month (I&amp;rsquo;ll remind you closer to the time), you send me an email introducing yourself, asking a few questions blah blah, whatever you want.</description>
+    </item>
+    <item>
       <title>New New Site</title>
       <link>https://example.org/posts/new-new-site/</link>
       <pubDate>Mon, 06 Nov 2023 12:44:12 -0500</pubDate>
