@@ -1,126 +1,495 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Nathan&#39;s Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on Nathan&#39;s Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
-    <atom:link href="https://example.org/posts/feed.xml" rel="self" type="application/rss" />
-    <item>
-      <title>Pen-Pal Thing</title>
-      <link>https://example.org/posts/pen-pal-things/</link>
-      <pubDate>Wed, 08 Nov 2023 17:39:18 -0500</pubDate>
-      <guid>https://example.org/posts/pen-pal-things/</guid>
-      <description>Nov 11, 2023
-Recently, Kev posted a blog post about wanting pen-pals. He posed an a simple plan.
-If you&amp;rsquo;re interested in taking part, drop me an email using the reply button at the bottom of this post. We can then agree on a month that works for the pair of us. At the start of that month (I&amp;rsquo;ll remind you closer to the time), you send me an email introducing yourself, asking a few questions blah blah, whatever you want.</description>
-    </item>
-    <item>
-      <title>New New Site</title>
-      <link>https://example.org/posts/new-new-site/</link>
-      <pubDate>Mon, 06 Nov 2023 12:44:12 -0500</pubDate>
-      <guid>https://example.org/posts/new-new-site/</guid>
-      <description>Nov 6, 2023
-Welp, this was a pain.
-Over the past few days, I have been working on moving my website. Why you might ask? Let&amp;rsquo;s go over that.
-For a while, I was hosting this site on blot.im. Blot basically takes a bunch of markdown files you send them, and turns them into a website. I was a big fan of this. Simple, easy, and flexible. However, I started running into problems.</description>
-    </item>
-    <item>
-      <title>Stealth Flipper</title>
-      <link>https://example.org/posts/stealth-flipper/</link>
-      <pubDate>Wed, 01 Nov 2023 12:30:42 -0500</pubDate>
-      <guid>https://example.org/posts/stealth-flipper/</guid>
-      <description>Nov 1, 2023
-Let&amp;rsquo;s be honest, most flipper users use the flipper to dick around. You know, pop Tesla charge covers, set off CVS alcohol announcements (Bonus points if you do it in a state CVS can&amp;rsquo;t sell alcohol in (Like Maryland)). You know, fun stuff. The Flipper is unfortunately recognizable (Thanks to dumpsters like TikTok). So, if we&amp;rsquo;re going to have some fun in a CVS, or a Tesla store, we need to be a bit sneaky.</description>
-    </item>
-    <item>
-      <title>Making a Fast As Hell Flash Drive</title>
-      <link>https://example.org/posts/fast-flashdrive/</link>
-      <pubDate>Fri, 27 Oct 2023 10:26:18 -0500</pubDate>
-      <guid>https://example.org/posts/fast-flashdrive/</guid>
-      <description>Oct 27, 2023
-A while back, I upgraded the storage in my Steam Deck. Going from 512GB, to 2TB. The upgrade was so worth it. But, as a result, I had a 512GB SSD just sitting around.
-After a while, I ended up ordering an NVME SSD enclosure.
-After chucking the SSD in there, and formatting it. I now have a little, fast as hell, USB drive. That I can also use if I need to image other NVME drives.</description>
-    </item>
-    <item>
-      <title>Turning Off Analytics For Now</title>
-      <link>https://example.org/posts/turning-off-analytics/</link>
-      <pubDate>Thu, 26 Oct 2023 22:51:17 -0500</pubDate>
-      <guid>https://example.org/posts/turning-off-analytics/</guid>
-      <description>Oct 26, 2023
-For the past month, I&amp;rsquo;ve been running analytics on both of my websites. The service I&amp;rsquo;ve been using for this is Plausible.io. I went with them for a couple of reasons. Mainly, they didn&amp;rsquo;t look hungry for personal data. I&amp;rsquo;ve been enjoying them quite a lot. They have a good, very easy to use interface. That&amp;rsquo;s also not over whelming. But, I&amp;rsquo;m going to be turning analytics off, at least for now.</description>
-    </item>
-    <item>
-      <title>The Secret Guest Network</title>
-      <link>https://example.org/posts/secret-guest-network/</link>
-      <pubDate>Sun, 22 Oct 2023 22:52:29 -0500</pubDate>
-      <guid>https://example.org/posts/secret-guest-network/</guid>
-      <description>Oct 22, 2023
-Imagine this, you have some people over, and they want the password to your WiFi. You trust them, but not “you can be on my network” trust them. So you give them the guest network login. They get mad and leave, and now you&amp;rsquo;re down a couple friends. But what if you could have a hidden guest network, that looks just like your main one, maybe that would let you keep some friends.</description>
-    </item>
-    <item>
-      <title>Flight Update 3</title>
-      <link>https://example.org/posts/flight-update-3/</link>
-      <pubDate>Mon, 21 Aug 2023 23:33:55 -0500</pubDate>
-      <guid>https://example.org/posts/flight-update-3/</guid>
-      <description>Aug 21, 2023
-I am now on my way from RDU to DEN. After everyone getting off at RDU (all but 16), and a headcount was taken, we were able to move seats. I moved from the very back, to the very front. Hoping to make a speedy exit at DEN.
-I mentioned at the end of my last post, that my in flight entertainment is a bunch of plane crash documentaries.</description>
-    </item>
-    <item>
-      <title>Flight Update 2</title>
-      <link>https://example.org/posts/flight-update-2/</link>
-      <pubDate>Mon, 21 Aug 2023 23:33:22 -0500</pubDate>
-      <guid>https://example.org/posts/flight-update-2/</guid>
-      <description>Aug 21, 2023
-I am on a plane, crazy I know. First I was scheduled for one flight, then I got bumped to another, but you read that (I hope). When I left off I was at gate B8 at BWI, things changed pretty quick after posting. I took off from (get it) the gate to use the restroom, when I got back, the flight info display was showing a different flight.</description>
-    </item>
-    <item>
-      <title>Flight Update</title>
-      <link>https://example.org/posts/flight-update/</link>
-      <pubDate>Mon, 21 Aug 2023 23:31:34 -0500</pubDate>
-      <guid>https://example.org/posts/flight-update/</guid>
-      <description>Aug 21, 2023
-While waiting for my already delayed flight, I got a text saying that I had been rebooked to a new flight&amp;hellip;1 Later in the day. I was scheduled to fly from BWI at 13:40 to ATL, then to DEN. Now I&amp;rsquo;m going from BWI at 15:25 to RDU to DEN&amp;hellip; fun. And because I was rebooked, I&amp;rsquo;ve been dumped to boarding group C out of&amp;hellip; C. It&amp;rsquo;s not all bad, while I&amp;rsquo;ll be stopping in RDU, I&amp;rsquo;m not changing planes.</description>
-    </item>
-    <item>
-      <title>New Mastodon Handle</title>
-      <link>https://example.org/posts/new-mastodon/</link>
-      <pubDate>Mon, 21 Aug 2023 23:28:43 -0500</pubDate>
-      <guid>https://example.org/posts/new-mastodon/</guid>
-      <description>Aug 21, 2023
-Note: This post is old and I have moved to Fosstodon
-With the shutting down of Crabland.social1, I&amp;rsquo;ve migrated my account to a new server. I&amp;rsquo;m using the same hosting provider Masto.host, just can&amp;rsquo;t beat their pricing. My new server is a singer user one (not running in single user mode, because I think it looks ugly), mstdn.nthp.me. I&amp;rsquo;m going to try and cut down the amount of domains I own (too many), so I&amp;rsquo;m going to be tying more things to my main one (this one).</description>
-    </item>
-    <item>
-      <title>The Day-cation</title>
-      <link>https://example.org/posts/the-day-cation/</link>
-      <pubDate>Wed, 02 Aug 2023 23:11:43 -0500</pubDate>
-      <guid>https://example.org/posts/the-day-cation/</guid>
-      <description>Aug 2, 2023
-Jump to: The Idea | Planing | The Trip | Thoughts Quick Links: Trip Photos
-I&amp;rsquo;ve always loved a good vacation, who doesn&amp;rsquo;t. But vacations take time. Time to plan. And time to take. Why not just take a day trip, you say. Why not to drive somewhere for a day, you ask. I live near DC, so a day trip is going down to DC for the whatever-ith time.</description>
-    </item>
-    <item>
-      <title>The Need to Immediately Replace</title>
-      <link>https://example.org/posts/need-to-immediately-replace/</link>
-      <pubDate>Sun, 02 Jul 2023 22:55:39 -0500</pubDate>
-      <guid>https://example.org/posts/need-to-immediately-replace/</guid>
-      <description>Jul 2, 2023
-With the closing down of third party Reddit apps, a number of people are moving over to things like kbin. And that has me wondering, are the new users of kbin, going to try and turn it into Reddit.
-This is something I’ve noticed over on Mastodon. When a large number a of new Mastodon users signed up, they very quickly started pushing for some new features. Those “new” features were just things that Twitter had, that Mastodon didn’t.</description>
-    </item>
-    <item>
-      <title>PaintBoy Advance</title>
-      <link>https://example.org/posts/paintboy-advance/</link>
-      <pubDate>Tue, 26 Oct 2021 12:10:57 -0500</pubDate>
-      <guid>https://example.org/posts/paintboy-advance/</guid>
-      <description>Oct 26, 2021
-PaintBoy advance I&amp;rsquo;m not new to modded gameboys. I&amp;rsquo;ve put IPS screens in a DMG and an SP, and I built an all metal gameboy advance. Ive gotten the itch to build a custom GBA again after working on my girlfriend&amp;rsquo;s GBA, I just need an idea…
-This is what I&amp;rsquo;m thinking. This is made from painting the inside of a clear shell, allowing the supports to still be seen.</description>
-    </item>
+	<title>Nathan&#39;s Site</title>
+	<link>https://example.org/posts/</link>
+	<description>Recent content in Posts on Nathan&#39;s Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate><atom:link href="https://example.org/posts/feed.xml" rel="self" type="application/rss" />
+	<item>
+	  <title>Pen-Pal Thing</title>
+	  <link>https://example.org/posts/pen-pal-things/</link>
+	  <pubDate>Wed, 08 Nov 2023 17:39:18 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/pen-pal-things/</guid>
+	  <description>
+		
+		&lt;p&gt;Nov 11, 2023&lt;/p&gt;
+&lt;p&gt;Recently, Kev posted a &lt;a href=&#34;https://kevquirk.com/seeking-pen-pals&#34;&gt;blog post&lt;/a&gt; about wanting pen-pals. He posed an a simple plan.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in taking part, drop me an email using the reply button at the bottom of this post. &lt;br&gt;
+We can then agree on a month that works for the pair of us. &lt;br&gt;
+At the start of that month (I&amp;rsquo;ll remind you closer to the time), you send me an email introducing yourself, asking a few questions blah blah, whatever you want. &lt;br&gt;
+I&amp;rsquo;ll then reply that same week and will publish the conversation on this blog for others to enjoy too. &lt;br&gt;
+If you have a blog, feel free to do the same. &lt;br&gt;
+We will continue this process for the rest of the month, and (hopefully) part ways at the end as friends&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This got my interest.&lt;/p&gt;
+&lt;p&gt;At the bottom of his post. He had a table of months, and people. I noticed that April 2024 was open. So I shot  an email&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’m down for April, as that’s also my birthday month. It’ll be cool to chat with someone in the UK who’s also in the security field.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I quickly got an email back. Confirming April. Sick! I&amp;rsquo;m looking forward to this, and will post the email convocation on my site.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Pen-Pal%20Thing&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+
+	  </description>
+	</item>
+	
+	<item>
+	  <title>New New Site</title>
+	  <link>https://example.org/posts/new-new-site/</link>
+	  <pubDate>Mon, 06 Nov 2023 12:44:12 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/new-new-site/</guid>
+	  <description>
+		
+		&lt;p&gt;Nov 6, 2023&lt;/p&gt;
+&lt;p&gt;Welp, this was a pain.&lt;/p&gt;
+&lt;p&gt;Over the past few days, I have been working on moving my website. Why you might ask? Let&amp;rsquo;s go over that.&lt;/p&gt;
+&lt;p&gt;For a while, I was hosting this site on &lt;a href=&#34;https://blot.im&#34;&gt;blot.im&lt;/a&gt;. Blot basically takes a bunch of markdown files you send them, and turns them into a website. I was a big fan of this. Simple, easy, and flexible. However, I started running into problems.&lt;/p&gt;
+&lt;p&gt;When you send MD files to blot, blot will cache the files, and build a site out of them. Every now and then, that cache would get stuck. You could push new files, but they wouldn&amp;rsquo;t appear on the visible site. The only way I had to force the cache to refresh, was to email the dev.&lt;/p&gt;
+&lt;h2 id=&#34;moving-to-something-new&#34;&gt;Moving to Something New&lt;/h2&gt;
+&lt;p&gt;After some thinking, I decided to go with a static site. I&amp;rsquo;ll generate the site on my mac, then push it to a host. The first tool i tried out was &lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt; After a bunch of work, I got a super basic site up and running with &lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt; However, I didn&amp;rsquo;t like it. &lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt; is written in Java Script, and I really don&amp;rsquo;t like Java Script.&lt;/p&gt;
+&lt;p&gt;The next tool I tried was &lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;. Jekyll looked way nicer to work with. There was just one tiny problem. Ruby 3.1.3 didn&amp;rsquo;t want to compile on my mac. So that was out.&lt;/p&gt;
+&lt;p&gt;The tool that I went with (as you can see in the footer), is &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. Hugo, ships as a Go binary. This fixes the issue I had with Jekyll, and 11ty. Nothing to compile, and it&amp;rsquo;s not Java Script. I&amp;rsquo;m not going to go into how to use Hugo, has I&amp;rsquo;m still learning it.&lt;/p&gt;
+&lt;p&gt;As for hosting, I&amp;rsquo;m using &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;. All I have to do, is drop the built site into a folder. and push that to Github.&lt;/p&gt;
+&lt;p&gt;The best part of all of this. My hosting costs have gone from $4/month, to $0/month.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m still not done yet. The main thing remaining to to move all of my old posts over. That&amp;rsquo;s going to take a bit. I&amp;rsquo;ll get there though.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20New%20Mastodon&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
+	<item>
+	  <title>Stealth Flipper</title>
+	  <link>https://example.org/posts/stealth-flipper/</link>
+	  <pubDate>Wed, 01 Nov 2023 12:30:42 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/stealth-flipper/</guid>
+	  <description>
+		
+		&lt;p&gt;Nov 1, 2023&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s be honest, most flipper users use the flipper to dick around. You know, pop Tesla charge covers, set off CVS alcohol announcements (Bonus points if you do it in a state CVS can&amp;rsquo;t sell alcohol in (Like Maryland)). You know, fun stuff. The Flipper is unfortunately recognizable (Thanks to dumpsters like TikTok). So, if we&amp;rsquo;re going to have some fun in a CVS, or a Tesla store, we need to be a bit sneaky.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NOTE: This post doesn&amp;rsquo;t cover Android, as I don&amp;rsquo;t use that.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Don&amp;rsquo;t use this post to do illegal stuff.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The Flipper iOS app supports something super handy, Shortcuts. With an Apple Shortcuts, you can remotely tell the flipper to run a .sub file. Alright, so I can fire off a transmission form my phone, so what? I can just use the flipper app. He comes the best part of using a shortcut, you don&amp;rsquo;t need to get your phone out.&lt;/p&gt;
+&lt;p&gt;The Apple watch Ultra, has a big orange button on the side&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. This button (called the action button&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;) can be set to do a few things. Start a spot watch, start a work out, start a dive, etc. One of the options available, is to launch a shortcut. So, all you have to do, is make a basic shortcut&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, that runs a sub file. Set the action button to run that. And Boom, you&amp;rsquo;re ready to rock.&lt;/p&gt;
+&lt;p&gt;Have fun ;)&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Stealth%20Flipper&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/stealth-flipper/gif1.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/stealth-flipper/fig1.jpg&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;The iPhone 15 Pro also has one. And can also do this.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/stealth-flipper/fig2.jpeg&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
+	</item>
+	
+	<item>
+	  <title>Making a Fast As Hell Flash Drive</title>
+	  <link>https://example.org/posts/fast-flashdrive/</link>
+	  <pubDate>Fri, 27 Oct 2023 10:26:18 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/fast-flashdrive/</guid>
+	  <description>
+		
+		&lt;p&gt;Oct 27, 2023&lt;/p&gt;
+&lt;p&gt;A while back, I upgraded the storage in my Steam Deck. Going from 512GB, to 2TB. The upgrade was so worth it. But, as a result, I had a 512GB SSD just sitting around.&lt;/p&gt;
+&lt;p&gt;After a while, I ended up ordering an NVME SSD enclosure.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/fast-flashdrive/fig1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After chucking the SSD in there, and formatting it. I now have a little, fast as hell, USB drive. That I can also use if I need to image other NVME drives.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/fast-flashdrive/fig2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Fast%20As%20Hell%20Flash%20Drive&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
+	<item>
+	  <title>Turning Off Analytics For Now</title>
+	  <link>https://example.org/posts/turning-off-analytics/</link>
+	  <pubDate>Thu, 26 Oct 2023 22:51:17 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/turning-off-analytics/</guid>
+	  <description>
+		
+		&lt;p&gt;Oct 26, 2023&lt;/p&gt;
+&lt;p&gt;For the past month, I&amp;rsquo;ve been running analytics on both of my websites. The service I&amp;rsquo;ve been using for this is &lt;a href=&#34;https://plausible.io/&#34;&gt;Plausible.io&lt;/a&gt;. I went with them for a couple of reasons. Mainly, they didn&amp;rsquo;t look hungry for personal data. I&amp;rsquo;ve been enjoying them quite a lot. They have a good, very easy to use interface. That&amp;rsquo;s also not over whelming. But, I&amp;rsquo;m going to be turning analytics off, at least for now.&lt;/p&gt;
+&lt;h2 id=&#34;why-i-started&#34;&gt;Why I started&lt;/h2&gt;
+&lt;p&gt;I started using analytics to simply see how many people were going to my site. As well as from what countries. The UK, Poland, Romania, and Czechia, are just a few that have visited my main site. That&amp;rsquo;s what I&amp;rsquo;ve been enjoying the most.&lt;/p&gt;
+&lt;h2 id=&#34;why-im-stopping-for-now&#34;&gt;Why I&amp;rsquo;m stopping, for now&lt;/h2&gt;
+&lt;p&gt;Price. That&amp;rsquo;s it really. I have enjoyed Plausible, and still really like them. However I&amp;rsquo;m coming up on the end of my free month. And will have to start paying $9/month. Now, I could switch to a different analytics provider. But, I&amp;rsquo;m not big on a lot of the others I&amp;rsquo;ve looked at. I don&amp;rsquo;t want to be one of those sites, that vacuums up every possible bit of user data.&lt;/p&gt;
+&lt;p&gt;I do plan on firing analytics back up down the line though. Plausible is open source, and you can host it yourself. Something I will do at some point. (You can even run it on a Pi with some work).&lt;/p&gt;
+&lt;p&gt;So yeah. Plausible has been good and I like it. But it&amp;rsquo;s not really worth $9/month to have them host it. At least for me.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Turning%20Off%20Analytics%20For%20Now&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
+	<item>
+	  <title>The Secret Guest Network</title>
+	  <link>https://example.org/posts/secret-guest-network/</link>
+	  <pubDate>Sun, 22 Oct 2023 22:52:29 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/secret-guest-network/</guid>
+	  <description>
+		
+		&lt;p&gt;Oct 22, 2023&lt;/p&gt;
+&lt;p&gt;Imagine this, you have some people over, and they want the password to your WiFi. You trust them, but not “you can be on my network” trust them. So you give them the guest network login. They get mad and leave, and now you&amp;rsquo;re down a couple friends. But what if you could have a hidden guest network, that looks just like your main one, maybe that would let you keep some friends.&lt;/p&gt;
+&lt;p&gt;Ubiquity has rolled out support for PPSK (Private Pre Shared Keys). That let&amp;rsquo;s you have multiple networks, behind one SSID. This is handy, as having too many SSIDs can hurt performance.&lt;/p&gt;
+&lt;p&gt;What PPKS does, is let you automatically put a host on a VLAN, depending on what password they use. For example, let&amp;rsquo;s say we have a WiFi network called &amp;ldquo;BullsEyeWiFi&amp;rdquo;. We can set up PPSK so that anyone who uses the password &amp;ldquo;GoodPassw0rd1!&amp;rdquo;, will be put on VLAN 1. And anyone who uses the password &amp;ldquo;Playground&amp;rdquo;, will get put on VLAN 2.&lt;/p&gt;
+&lt;p&gt;Now that&amp;rsquo;s a pretty business example. A more home user example would be: Having a segregated guest network, on the same SSID as your main one. This way, you can put your house guests on a guest network, without them having any idea. And thus, keeping them as friends.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/guestnetwork/fig1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Heres a good video from Cameron Gray Going over PPSK on UNiFi. And its downside (It doesn&amp;rsquo;t work on WPA3 networks (That includes 6GHz networks)).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DvhU7roLviY&amp;amp;t=1228s&#34;&gt;https://www.youtube.com/watch?v=DvhU7roLviY&amp;amp;t=1228s&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Secret%20Guest%20Network&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
+	<item>
+	  <title>Flight Update 3</title>
+	  <link>https://example.org/posts/flight-update-3/</link>
+	  <pubDate>Mon, 21 Aug 2023 23:33:55 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/flight-update-3/</guid>
+	  <description>
+		
+		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
+&lt;p&gt;I am now on my way from RDU to DEN. &lt;br&gt;
+After everyone getting off at RDU (all but 16), and a headcount was taken, we were able to move seats. I moved from the very back, to the very front. Hoping to make a speedy exit at DEN.&lt;/p&gt;
+&lt;p&gt;I mentioned at the end of my last post, that my in flight entertainment is a bunch of plane crash documentaries. I downloaded 16 20 - 40 min videos by Green Dot Aviation (fantastic channel). To help make sure the person next to me doesn&amp;rsquo;t get nervous, I have the videos playing in the mini player in the corner on my mac.&lt;/p&gt;
+&lt;p&gt;First one I watched was about UPS flight 6, a cargo aircraft that had a cargo fire. &lt;br&gt;
+The second one was Swissair flight 111, a flight that had a fire. &lt;br&gt;
+The third was about BA 162, a flight that caught&amp;hellip; fire&amp;hellip;&lt;/p&gt;
+&lt;p&gt;No, not all of them are about fires, here&amp;rsquo;s all the ones I downloaded&lt;/p&gt;
+&lt;div id=&#34;list&#34; /&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;19 SECONDS from Collision | Easyjet 6074.mp4
+315 people TRAPPED inside a Crazy Plane! Qantas 72.mp4
+747 in DANGER | The MYSTERY of the world&amp;#39;s WORST mid-air collision.mp4
+CRASHING 4 minutes after takeoff | Sriwijaya Air 182.mp4
+FIRE onboard!? The nightmare of Swissair 111.mp4
+HOW did they forget THIS?! Malaysia 134.mp4
+INFERNO over Dubai | The Horror of UPS 6.mp4
+Plane SNAPS in half over the ocean | The REAL story of South African 295.mp4
+Plane catches FIRE over London | BA 762.mp4
+SECONDS after takeoff | Air Florida flight 90.mp4
+TERRIFYING Dive | What went WRONG??.mp4
+This plane RAN OUT of FUEL in the middle of the OCEAN!!.mp4
+This plane RAN OUT of fuel mid-flight!.mp4
+WHAT caused the WORST single air crash in history?? | Japan Air 123.mp4
+WHY did this plane DIVE just before landing? | Icelandair 315.mp4
+What REALLY happened Korean Flight 007??.mp4
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I won&amp;rsquo;t be able to post this till a fair bit after I get off the plane&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, but this post was written on the plane, and will be date stamped of when I completed it, not when I post it&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;P.S. Noise canceling headphones are not only great for plane noise, but kid noise as well.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Flight%20Update%20Three&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Not paying $8 just to post this.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Blot let&amp;rsquo;s me do cool stuff like that.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
+	</item>
+	
+	<item>
+	  <title>Flight Update 2</title>
+	  <link>https://example.org/posts/flight-update-2/</link>
+	  <pubDate>Mon, 21 Aug 2023 23:33:22 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/flight-update-2/</guid>
+	  <description>
+		
+		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
+&lt;p&gt;I am on a plane, crazy I know. First I was scheduled for one flight, then I got bumped to another, but you read that (I hope). When I left off I was at gate B8 at BWI, things changed pretty quick after posting. &lt;br&gt;
+I took off from (get it) the gate to use the restroom, when I got back, the flight info display was showing a different flight. What&amp;hellip; I pulled out my phone and checked my boarding pass. My gate had changed to A14, halfway across the airport&amp;hellip; I had plenty of time to get there, and I got there fine. &lt;br&gt;
+I had to wait some more, as the plane at the gate hadn&amp;rsquo;t left yet, thus mine couldn&amp;rsquo;t pull in.&lt;/p&gt;
+&lt;p&gt;But that doesn&amp;rsquo;t matter now, I&amp;rsquo;m in the air. and on my way to RDU in NC. Then I&amp;rsquo;ll be on to DEN.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll try to post this at RDU, don&amp;rsquo;t know if I&amp;rsquo;ll be able to, as I&amp;rsquo;m writing this on my Mac vs my phone. Either way, I&amp;rsquo;ll mark the post time of when I finished this. Check out the &lt;a href=&#34;https://nthp.me/tagged/air-craziness&#34;&gt;Air Craziness tag&lt;/a&gt; on here for the whole thing.&lt;/p&gt;
+&lt;p&gt;P.S. My inflight entertainment is plane crash documentaries&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Flight%20Update%20Two&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
+	<item>
+	  <title>Flight Update</title>
+	  <link>https://example.org/posts/flight-update/</link>
+	  <pubDate>Mon, 21 Aug 2023 23:31:34 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/flight-update/</guid>
+	  <description>
+		
+		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
+&lt;p&gt;While waiting for my already delayed flight, I got a text saying that I had been rebooked to a new flight&amp;hellip;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Later in the day. &lt;br&gt;
+I was scheduled to fly from BWI at 13:40 to ATL, then to DEN. Now I&amp;rsquo;m going from BWI at 15:25 to RDU to DEN&amp;hellip; fun. And because I was rebooked, I&amp;rsquo;ve been dumped to boarding group C out of&amp;hellip; C. It&amp;rsquo;s not all bad, while I&amp;rsquo;ll be stopping in RDU, I&amp;rsquo;m not changing planes. So I can get a better seat that way. BWI to RDU is only about 1H 5M. Hoping I don&amp;rsquo;t get any more surprises on the flight.&lt;/p&gt;
+&lt;p&gt;I you want to join me on this craziness, follow me on &lt;a href=&#34;https://fosstodon.org/@nthp&#34;&gt;Mastodon @nthp@fosstodon.org&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Flight%20Update&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/flight-update/fig1.png&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
+	</item>
+	
+	<item>
+	  <title>New Mastodon Handle</title>
+	  <link>https://example.org/posts/new-mastodon/</link>
+	  <pubDate>Mon, 21 Aug 2023 23:28:43 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/new-mastodon/</guid>
+	  <description>
+		
+		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: This post is old and I have moved to Fosstodon&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;With the shutting down of Crabland.social&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, I&amp;rsquo;ve migrated my account to a new server. &lt;br&gt;
+I&amp;rsquo;m using the same hosting provider &lt;a href=&#34;https://masto.host&#34;&gt;Masto.host&lt;/a&gt;, just can&amp;rsquo;t beat their pricing. My new server is a singer user one (not running in single user mode, because I think it looks ugly), &lt;a href=&#34;https://mstdn.nthp.me&#34;&gt;mstdn.nthp.me&lt;/a&gt;. I&amp;rsquo;m going to try and cut down the amount of domains I own (too many), so I&amp;rsquo;m going to be tying more things to my main one (this one).&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s pretty much all I got, if you were following my old Mastodon account, you should be automatically following my new one &lt;a href=&#34;https://fosstodon.org/@nthp&#34;&gt;@nthp@fosstodon.org&lt;/a&gt;. I&amp;rsquo;m also posting this form an airport, so that&amp;rsquo;s neat&amp;hellip; my flight got delayed though&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/new-mastodon/fig1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20New%20Mastodon&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/new-mastodon/fig3.png&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
+	</item>
+	
+	<item>
+	  <title>The Day-cation</title>
+	  <link>https://example.org/posts/the-day-cation/</link>
+	  <pubDate>Wed, 02 Aug 2023 23:11:43 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/the-day-cation/</guid>
+	  <description>
+		
+		&lt;p&gt;Aug 2, 2023&lt;/p&gt;
+&lt;p&gt;Jump to: &lt;a href=&#34;#idea&#34;&gt;The Idea&lt;/a&gt; | &lt;a href=&#34;#planing&#34;&gt;Planing&lt;/a&gt; | &lt;a href=&#34;#trip&#34;&gt;The Trip&lt;/a&gt; | &lt;a href=&#34;#thoughts&#34;&gt;Thoughts&lt;/a&gt; &lt;br&gt;
+Quick Links: &lt;a href=&#34;https://www.flickr.com/photos/197704187@N04/albums/72177720310228473&#34;&gt;Trip Photos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always loved a good vacation, who doesn&amp;rsquo;t. But vacations take time. Time to plan. And time to take. Why not just take a day trip, you say. Why not to drive somewhere for a day, you ask. I live near DC, so a day trip is going down to DC for the whatever-ith time.&lt;/p&gt;
+&lt;div id=&#34;idea&#34; /&gt;
+&lt;h2 id=&#34;the-idea-idea&#34;&gt;The Idea &lt;a href=&#34;#idea&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The plan started with my friend texting me. Asking if I wanted to take a trip to Atlanta. Why? He wanted to get out of something&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The idea was a day trip, fly down first thing in the morning, see some things, and fly back after lunch. Now that&amp;rsquo;s a day-cation.&lt;/p&gt;
+&lt;div id=&#34;planing&#34; /&gt;
+&lt;h2 id=&#34;planing-planing&#34;&gt;Planing &lt;a href=&#34;#planing&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;So why Atlanta? Well, neither me, nor my friend have been there. And the flights were cheep. Like $50 round trip cheep. There&amp;rsquo;s just one catch, we&amp;rsquo;d be flying on Spirit. More on that later. Now we just needed something to do there. Easy, they have a big aquarium, and the Coca-Cola HQ. Buying the airline tickets was pretty straight forward. The Work of Coke tickets we would just buy at the door. The aquarium tickets on the other hand, oh man.&lt;/p&gt;
+&lt;div id=&#34;tickets&#34; /&gt;
+&lt;h3 id=&#34;buying-atlanta-tickets-from-california-in-maryland-tickets&#34;&gt;Buying Atlanta tickets, from California, In Maryland &lt;a href=&#34;#tickets&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Buying the aquarium tickets was an absolute pain. No matter what I did, it would just give me an error. Didn&amp;rsquo;t matter the card, time slot, or billing address, it just wouldn&amp;rsquo;t work&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. Then I had an idea. I fired up a VPN to California, and bought the tickets&amp;hellip; I don&amp;rsquo;t know why that worked. The problem continued. I couldn&amp;rsquo;t add the ticket to Apple Wallet&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. So I tried the same VPN to Cali trick. Boom I had my ticket. I forwarded the email to my friend so he could grab his&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;div id=&#34;trip&#34; /&gt;
+&lt;h2 id=&#34;the-trip-trip&#34;&gt;The Trip &lt;a href=&#34;#trip&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;div id=&#34;flight&#34; /&gt;
+&lt;h3 id=&#34;the-flight-flight&#34;&gt;The Flight &lt;a href=&#34;#flight&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I mostly fly on South West, so I didn&amp;rsquo;t really know what to expect from Spirit. I didn&amp;rsquo;t expect much, but damn did they fly under that. Here&amp;rsquo;s a quick breakdown of the two.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;South West&lt;/th&gt;
+&lt;th&gt;Spirit&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Checked Bags&lt;/td&gt;
+&lt;td&gt;2 Free&lt;/td&gt;
+&lt;td&gt;Extra Charge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cary on&lt;/td&gt;
+&lt;td&gt;Free&lt;/td&gt;
+&lt;td&gt;Extra Charge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Inflight WiFi&lt;/td&gt;
+&lt;td&gt;Extra Charge&lt;/td&gt;
+&lt;td&gt;Extra Charge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Free Messaging&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Soda&lt;/td&gt;
+&lt;td&gt;Free&lt;/td&gt;
+&lt;td&gt;Extra Charge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alcohol&lt;/td&gt;
+&lt;td&gt;Extra Charge&lt;/td&gt;
+&lt;td&gt;Extra Charge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Movies&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tray Table&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Lol, No&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Damn, that&amp;rsquo;s not great. And that&amp;rsquo;s not even the &lt;a href=&#34;https://youtu.be/LPbm2tSssCQ?t=22&#34;&gt;end of it&lt;/a&gt;. The seats, oh god the seats.
+I&amp;rsquo;d describe South West&amp;rsquo;s seats as, fine. They get the job done, they recline a bit, and the aren&amp;rsquo;t painful over a long flight&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. Spirit&amp;rsquo;s on the other hand&amp;hellip; Our flight was 1H 50M. After about 90min, I wanted out, they were that bad. They also didn&amp;rsquo;t recline&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;div id=&#34;atlanta&#34; /&gt;
+&lt;h3 id=&#34;atlanta-atlanta&#34;&gt;Atlanta &lt;a href=&#34;#atlanta&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We landed at ATL, and took a neat, but &lt;a href=&#34;https://i.pinimg.com/originals/2b/ca/c1/2bcac10438ab9a950ac22ddf37b8b6e6.jpg&#34;&gt;simple train&lt;/a&gt; to the aquarium.&lt;/p&gt;
+&lt;div id=&#34;aqu&#34; /&gt;
+&lt;h4 id=&#34;the-aquarium-aqu&#34;&gt;The Aquarium &lt;a href=&#34;#aqu&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;The aquarium was really cool, and quite &lt;a href=&#34;https://i.pinimg.com/originals/35/0f/21/350f21c24d4cb73da2aab911f7758843.jpg&#34;&gt;big&lt;/a&gt;. Not much else to say, check out my &lt;a href=&#34;https://www.flickr.com/photos/197704187@N04/albums/72177720310228473&#34;&gt;flicker album&lt;/a&gt; of the trip&lt;/p&gt;
+&lt;div id=&#34;coke&#34; /&gt;
+&lt;h4 id=&#34;world-of-coke-coke&#34;&gt;World Of Coke &lt;a href=&#34;#coke&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;As a lover of Coca-Cola, I was super looking forward to World Of Coke. We started out by going into a waiting room, filled with tons of old &lt;a href=&#34;https://www.flickr.com/photos/197704187@N04/53089257242/in/album-72177720310228473/&#34;&gt;coke signs&lt;/a&gt;. After being told they had a BBQ flavored soda in the tasting room. We moved into the main theater. They showed a three minute Coke ad, then in Wonka style, the theater screen moved up to reveal a entrance to the main floor&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;. There was a ton of stuff. A photo op with the &lt;a href=&#34;https://www.flickr.com/photos/197704187@N04/53089256352/in/album-72177720310228473/&#34;&gt;poler bear&lt;/a&gt;, A smelling room, that I determined  wasn&amp;rsquo;t working&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;. The vault&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;. And the main tasting room. Filled with Coke brand sodas from around the world. They also had what I was looking for. &lt;a href=&#34;https://www.flickr.com/photos/197704187@N04/53090315338/in/album-72177720310228473/&#34;&gt;Fresh Coke&lt;/a&gt;. It was fantastic.&lt;/p&gt;
+&lt;div id=&#34;lunch&#34; /&gt;
+&lt;h4 id=&#34;lunch-lunch&#34;&gt;Lunch &lt;a href=&#34;#lunch&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;After World Of Coke, we stopped off at the &lt;a href=&#34;https://discoveratlanta.com/things-to-do/sports/college-football-hall-of-fame/&#34;&gt;Chick-fil-A College Football Hall Of Fame&lt;/a&gt; for a quick bite&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;. Then walked around the Olympic Park for a bit.&lt;/p&gt;
+&lt;div id=&#34;home&#34; /&gt;
+&lt;h3 id=&#34;flight-home-home&#34;&gt;Flight Home &lt;a href=&#34;#home&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We took the train back to ATL, and waited for a couple hours in the TSA line. ATL was a neat airport, we took a little train like bus to our terminal&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt;. For some reason, Sprit wouldn&amp;rsquo;t give us boarding codes on our phones, instead telling us to see a &lt;a href=&#34;https://i.pinimg.com/originals/df/35/2f/df352f050a416b160aedf807dd02319a.jpg&#34;&gt;gate agent&lt;/a&gt;. They already had a paper boarding pass waiting for us. The flight back was exactly the same as the flight down, so just re-read that &lt;a href=&#34;#flight&#34;&gt;section&lt;/a&gt;. There and back, just in time for dinner.&lt;/p&gt;
+&lt;div id=&#34;thoughts&#34; /&gt;
+&lt;h2 id=&#34;thoughts-thoughts&#34;&gt;Thoughts &lt;a href=&#34;#thoughts&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This Day-cation was fantastic, and one I highly recommend to my co-workers. As for my friend, he had to find a new excuse to not go to his thing. As we changed days to get the flight down from $80, to $50. We just couldn&amp;rsquo;t not take a $50 round trip flight.&lt;/p&gt;
+&lt;p&gt;Check out my &lt;a href=&#34;https://www.flickr.com/photos/197704187@N04/albums/72177720310228473&#34;&gt;Flicker Album&lt;/a&gt; of the trip.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20The%20Day-cation&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Sorry, I cant be at the thing, I&amp;rsquo;ll be in&amp;hellip; At&amp;hellip; lanta, sorry.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;You couldn&amp;rsquo;t buy tickets at the door, you had to buy online in advance.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Or load the PDF&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;And told him to VPN to Cali to grab it&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;They also have a tray table, you know, like normal planes.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;Or have a tray table, wth!&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;
+&lt;p&gt;If you&amp;rsquo;ve played The Stanley Parable: Ultra Deluxe, think of when you are showed the main floor for The Stanley Parable 2&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;
+&lt;p&gt;I don&amp;rsquo;t have a sense of smell.&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34;&gt;
+&lt;p&gt;So they claim.&amp;#160;&lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;
+&lt;p&gt;The line was crazy.&amp;#160;&lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;
+&lt;p&gt;My dad told me the hell that ATL was before the train like bus was installed.&amp;#160;&lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
+	</item>
+	
+	<item>
+	  <title>The Need to Immediately Replace</title>
+	  <link>https://example.org/posts/need-to-immediately-replace/</link>
+	  <pubDate>Sun, 02 Jul 2023 22:55:39 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/need-to-immediately-replace/</guid>
+	  <description>
+		
+		&lt;p&gt;Jul 2, 2023&lt;/p&gt;
+&lt;p&gt;With the closing down of third party Reddit apps, a number of people are moving over to things like kbin. And that has me wondering, are the new users of kbin, going to try and turn it into Reddit.&lt;/p&gt;
+&lt;p&gt;This is something I’ve noticed over on Mastodon. When a large number a of new Mastodon users signed up, they very quickly started pushing for some new features. Those “new” features were just things that Twitter had, that Mastodon didn’t. It didn’t feel like they wanted to improve the Mastodon network. It felt like they wanted to turn it into what &lt;strong&gt;they&lt;/strong&gt; were used to, instead of getting used to Mastodon.&lt;/p&gt;
+&lt;p&gt;We’ll see if this happens with kbin and other like it.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20The%20Need%20to%20Immediately%20Replace&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
+	<item>
+	  <title>PaintBoy Advance</title>
+	  <link>https://example.org/posts/paintboy-advance/</link>
+	  <pubDate>Tue, 26 Oct 2021 12:10:57 -0500</pubDate>
+	  
+	  <guid>https://example.org/posts/paintboy-advance/</guid>
+	  <description>
+		
+		&lt;p&gt;Oct 26, 2021&lt;/p&gt;
+&lt;h1 id=&#34;paintboy-advance&#34;&gt;PaintBoy advance&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m not new to modded gameboys. I&amp;rsquo;ve put IPS screens in a DMG and an SP, and I built an &lt;a href=&#34;https://fosstodon.org/@Sulairris/106783968641330983&#34;&gt;all metal gameboy advance&lt;/a&gt;. Ive gotten the itch to build a custom GBA again after working on my girlfriend&amp;rsquo;s GBA, I just need an idea…&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/paintboy/fig1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is what I&amp;rsquo;m thinking. This is made from painting the inside of a clear shell, allowing the supports to still be seen. This isn&amp;rsquo;t mine it&amp;rsquo;s a screenshot from &lt;a href=&#34;https://youtu.be/XF_DDf9N1hc&#34;&gt;this YouTube vid&lt;/a&gt;. I&amp;rsquo;m not going to build the full thing yet, just see if I can make the shell myself.&lt;/p&gt;
+&lt;p&gt;I ordered a clear replacement shell that&amp;rsquo;s been pre-modded to take an IPS display, just need to buy some spray paint.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Many days later thanks to USPS, the shell came in the mail. It&amp;rsquo;s a clear retrosix shell and its one of the better ones I&amp;rsquo;ve seen&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/paintboy/fig2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The next thing I needed was some spray paint, so I grabbed my super gameboy, jumped in my car and headed up to the home depot. After looking over the spray paint aisle, they didn&amp;rsquo;t really have what I was looking for, but I got something close. Oddly, &lt;a href=&#34;https://pbs.twimg.com/media/Btv1OD_CUAAICrF?format=jpg&amp;amp;name=medium&#34;&gt;my home state&lt;/a&gt; Maryalnd requires you to be at least 18 to buy spray paint. Good thing i&amp;rsquo;m 25.&lt;/p&gt;
+&lt;p&gt;This is really my first time spray painting anything, but I have watched some modding vids that go over it. After taping up the outside, cracking the garage door, I got to work. I put down one layer, then another, then another, and waited. After peeling the tape off, it came out pretty good. Some over spray on the edges, but for a first time ensnarement, it went pretty well. I&amp;rsquo;ll build something in this down the line.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20PaintBoy%20Advance&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/paintboy/fig3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/paintboy/fig4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+	  </description>
+	</item>
+	
   </channel>
 </rss>
