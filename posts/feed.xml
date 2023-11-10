@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Nathan&#39;s Site</title>
-	<link>https://example.org/posts/</link>
+	<link>https://nthp.me/posts/</link>
 	<description>Recent content in Posts on Nathan&#39;s Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate><atom:link href="https://example.org/posts/feed.xml" rel="self" type="application/rss" />
+	<lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate><atom:link href="https://nthp.me/posts/feed.xml" rel="self" type="application/rss" />
 	<item>
 	  <title>Pen-Pal Thing</title>
-	  <link>https://example.org/posts/pen-pal-things/</link>
+	  <link>https://nthp.me/posts/pen-pal-things/</link>
 	  <pubDate>Wed, 08 Nov 2023 17:39:18 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/pen-pal-things/</guid>
+	  <guid>https://nthp.me/posts/pen-pal-things/</guid>
 	  <description>
 		
 		&lt;p&gt;Nov 11, 2023&lt;/p&gt;
@@ -40,10 +40,10 @@ We will continue this process for the rest of the month, and (hopefully) part wa
 	
 	<item>
 	  <title>New New Site</title>
-	  <link>https://example.org/posts/new-new-site/</link>
+	  <link>https://nthp.me/posts/new-new-site/</link>
 	  <pubDate>Mon, 06 Nov 2023 12:44:12 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/new-new-site/</guid>
+	  <guid>https://nthp.me/posts/new-new-site/</guid>
 	  <description>
 		
 		&lt;p&gt;Nov 6, 2023&lt;/p&gt;
@@ -66,10 +66,10 @@ We will continue this process for the rest of the month, and (hopefully) part wa
 	
 	<item>
 	  <title>Stealth Flipper</title>
-	  <link>https://example.org/posts/stealth-flipper/</link>
+	  <link>https://nthp.me/posts/stealth-flipper/</link>
 	  <pubDate>Wed, 01 Nov 2023 12:30:42 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/stealth-flipper/</guid>
+	  <guid>https://nthp.me/posts/stealth-flipper/</guid>
 	  <description>
 		
 		&lt;p&gt;Nov 1, 2023&lt;/p&gt;
@@ -86,18 +86,18 @@ We will continue this process for the rest of the month, and (hopefully) part wa
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Stealth%20Flipper&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
 &lt;/center&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/stealth-flipper/gif1.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/stealth-flipper/gif1.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/stealth-flipper/fig1.jpg&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/stealth-flipper/fig1.jpg&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;The iPhone 15 Pro also has one. And can also do this.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:3&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/stealth-flipper/fig2.jpeg&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/stealth-flipper/fig2.jpeg&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -107,18 +107,18 @@ We will continue this process for the rest of the month, and (hopefully) part wa
 	
 	<item>
 	  <title>Making a Fast As Hell Flash Drive</title>
-	  <link>https://example.org/posts/fast-flashdrive/</link>
+	  <link>https://nthp.me/posts/fast-flashdrive/</link>
 	  <pubDate>Fri, 27 Oct 2023 10:26:18 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/fast-flashdrive/</guid>
+	  <guid>https://nthp.me/posts/fast-flashdrive/</guid>
 	  <description>
 		
 		&lt;p&gt;Oct 27, 2023&lt;/p&gt;
 &lt;p&gt;A while back, I upgraded the storage in my Steam Deck. Going from 512GB, to 2TB. The upgrade was so worth it. But, as a result, I had a 512GB SSD just sitting around.&lt;/p&gt;
 &lt;p&gt;After a while, I ended up ordering an NVME SSD enclosure.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/fast-flashdrive/fig1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/fast-flashdrive/fig1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;After chucking the SSD in there, and formatting it. I now have a little, fast as hell, USB drive. That I can also use if I need to image other NVME drives.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/fast-flashdrive/fig2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/fast-flashdrive/fig2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Fast%20As%20Hell%20Flash%20Drive&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
 &lt;/center&gt;
@@ -127,10 +127,10 @@ We will continue this process for the rest of the month, and (hopefully) part wa
 	
 	<item>
 	  <title>Turning Off Analytics For Now</title>
-	  <link>https://example.org/posts/turning-off-analytics/</link>
+	  <link>https://nthp.me/posts/turning-off-analytics/</link>
 	  <pubDate>Thu, 26 Oct 2023 22:51:17 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/turning-off-analytics/</guid>
+	  <guid>https://nthp.me/posts/turning-off-analytics/</guid>
 	  <description>
 		
 		&lt;p&gt;Oct 26, 2023&lt;/p&gt;
@@ -149,10 +149,10 @@ We will continue this process for the rest of the month, and (hopefully) part wa
 	
 	<item>
 	  <title>The Secret Guest Network</title>
-	  <link>https://example.org/posts/secret-guest-network/</link>
+	  <link>https://nthp.me/posts/secret-guest-network/</link>
 	  <pubDate>Sun, 22 Oct 2023 22:52:29 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/secret-guest-network/</guid>
+	  <guid>https://nthp.me/posts/secret-guest-network/</guid>
 	  <description>
 		
 		&lt;p&gt;Oct 22, 2023&lt;/p&gt;
@@ -160,7 +160,7 @@ We will continue this process for the rest of the month, and (hopefully) part wa
 &lt;p&gt;Ubiquity has rolled out support for PPSK (Private Pre Shared Keys). That let&amp;rsquo;s you have multiple networks, behind one SSID. This is handy, as having too many SSIDs can hurt performance.&lt;/p&gt;
 &lt;p&gt;What PPKS does, is let you automatically put a host on a VLAN, depending on what password they use. For example, let&amp;rsquo;s say we have a WiFi network called &amp;ldquo;BullsEyeWiFi&amp;rdquo;. We can set up PPSK so that anyone who uses the password &amp;ldquo;GoodPassw0rd1!&amp;rdquo;, will be put on VLAN 1. And anyone who uses the password &amp;ldquo;Playground&amp;rdquo;, will get put on VLAN 2.&lt;/p&gt;
 &lt;p&gt;Now that&amp;rsquo;s a pretty business example. A more home user example would be: Having a segregated guest network, on the same SSID as your main one. This way, you can put your house guests on a guest network, without them having any idea. And thus, keeping them as friends.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/guestnetwork/fig1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/guestnetwork/fig1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Heres a good video from Cameron Gray Going over PPSK on UNiFi. And its downside (It doesn&amp;rsquo;t work on WPA3 networks (That includes 6GHz networks)).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DvhU7roLviY&amp;amp;t=1228s&#34;&gt;https://www.youtube.com/watch?v=DvhU7roLviY&amp;amp;t=1228s&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
@@ -171,10 +171,10 @@ We will continue this process for the rest of the month, and (hopefully) part wa
 	
 	<item>
 	  <title>Flight Update 3</title>
-	  <link>https://example.org/posts/flight-update-3/</link>
+	  <link>https://nthp.me/posts/flight-update-3/</link>
 	  <pubDate>Mon, 21 Aug 2023 23:33:55 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/flight-update-3/</guid>
+	  <guid>https://nthp.me/posts/flight-update-3/</guid>
 	  <description>
 		
 		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
@@ -224,10 +224,10 @@ What REALLY happened Korean Flight 007??.mp4
 	
 	<item>
 	  <title>Flight Update 2</title>
-	  <link>https://example.org/posts/flight-update-2/</link>
+	  <link>https://nthp.me/posts/flight-update-2/</link>
 	  <pubDate>Mon, 21 Aug 2023 23:33:22 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/flight-update-2/</guid>
+	  <guid>https://nthp.me/posts/flight-update-2/</guid>
 	  <description>
 		
 		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
@@ -245,10 +245,10 @@ I had to wait some more, as the plane at the gate hadn&amp;rsquo;t left yet, thu
 	
 	<item>
 	  <title>Flight Update</title>
-	  <link>https://example.org/posts/flight-update/</link>
+	  <link>https://nthp.me/posts/flight-update/</link>
 	  <pubDate>Mon, 21 Aug 2023 23:31:34 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/flight-update/</guid>
+	  <guid>https://nthp.me/posts/flight-update/</guid>
 	  <description>
 		
 		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
@@ -262,7 +262,7 @@ I was scheduled to fly from BWI at 13:40 to ATL, then to DEN. Now I&amp;rsquo;m 
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/flight-update/fig1.png&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/flight-update/fig1.png&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -272,10 +272,10 @@ I was scheduled to fly from BWI at 13:40 to ATL, then to DEN. Now I&amp;rsquo;m 
 	
 	<item>
 	  <title>New Mastodon Handle</title>
-	  <link>https://example.org/posts/new-mastodon/</link>
+	  <link>https://nthp.me/posts/new-mastodon/</link>
 	  <pubDate>Mon, 21 Aug 2023 23:28:43 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/new-mastodon/</guid>
+	  <guid>https://nthp.me/posts/new-mastodon/</guid>
 	  <description>
 		
 		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
@@ -285,7 +285,7 @@ I was scheduled to fly from BWI at 13:40 to ATL, then to DEN. Now I&amp;rsquo;m 
 &lt;p&gt;With the shutting down of Crabland.social&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, I&amp;rsquo;ve migrated my account to a new server. &lt;br&gt;
 I&amp;rsquo;m using the same hosting provider &lt;a href=&#34;https://masto.host&#34;&gt;Masto.host&lt;/a&gt;, just can&amp;rsquo;t beat their pricing. My new server is a singer user one (not running in single user mode, because I think it looks ugly), &lt;a href=&#34;https://mstdn.nthp.me&#34;&gt;mstdn.nthp.me&lt;/a&gt;. I&amp;rsquo;m going to try and cut down the amount of domains I own (too many), so I&amp;rsquo;m going to be tying more things to my main one (this one).&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s pretty much all I got, if you were following my old Mastodon account, you should be automatically following my new one &lt;a href=&#34;https://fosstodon.org/@nthp&#34;&gt;@nthp@fosstodon.org&lt;/a&gt;. I&amp;rsquo;m also posting this form an airport, so that&amp;rsquo;s neat&amp;hellip; my flight got delayed though&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/new-mastodon/fig1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/new-mastodon/fig1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20New%20Mastodon&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
 &lt;/center&gt;
@@ -293,7 +293,7 @@ I&amp;rsquo;m using the same hosting provider &lt;a href=&#34;https://masto.host
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/new-mastodon/fig3.png&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/new-mastodon/fig3.png&#34; alt=&#34;&#34;&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -303,10 +303,10 @@ I&amp;rsquo;m using the same hosting provider &lt;a href=&#34;https://masto.host
 	
 	<item>
 	  <title>The Day-cation</title>
-	  <link>https://example.org/posts/the-day-cation/</link>
+	  <link>https://nthp.me/posts/the-day-cation/</link>
 	  <pubDate>Wed, 02 Aug 2023 23:11:43 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/the-day-cation/</guid>
+	  <guid>https://nthp.me/posts/the-day-cation/</guid>
 	  <description>
 		
 		&lt;p&gt;Aug 2, 2023&lt;/p&gt;
@@ -446,10 +446,10 @@ I&amp;rsquo;d describe South West&amp;rsquo;s seats as, fine. They get the job d
 	
 	<item>
 	  <title>The Need to Immediately Replace</title>
-	  <link>https://example.org/posts/need-to-immediately-replace/</link>
+	  <link>https://nthp.me/posts/need-to-immediately-replace/</link>
 	  <pubDate>Sun, 02 Jul 2023 22:55:39 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/need-to-immediately-replace/</guid>
+	  <guid>https://nthp.me/posts/need-to-immediately-replace/</guid>
 	  <description>
 		
 		&lt;p&gt;Jul 2, 2023&lt;/p&gt;
@@ -464,29 +464,29 @@ I&amp;rsquo;d describe South West&amp;rsquo;s seats as, fine. They get the job d
 	
 	<item>
 	  <title>PaintBoy Advance</title>
-	  <link>https://example.org/posts/paintboy-advance/</link>
+	  <link>https://nthp.me/posts/paintboy-advance/</link>
 	  <pubDate>Tue, 26 Oct 2021 12:10:57 -0500</pubDate>
 	  
-	  <guid>https://example.org/posts/paintboy-advance/</guid>
+	  <guid>https://nthp.me/posts/paintboy-advance/</guid>
 	  <description>
 		
 		&lt;p&gt;Oct 26, 2021&lt;/p&gt;
 &lt;h1 id=&#34;paintboy-advance&#34;&gt;PaintBoy advance&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;m not new to modded gameboys. I&amp;rsquo;ve put IPS screens in a DMG and an SP, and I built an &lt;a href=&#34;https://fosstodon.org/@Sulairris/106783968641330983&#34;&gt;all metal gameboy advance&lt;/a&gt;. Ive gotten the itch to build a custom GBA again after working on my girlfriend&amp;rsquo;s GBA, I just need an idea…&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/paintboy/fig1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/paintboy/fig1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is what I&amp;rsquo;m thinking. This is made from painting the inside of a clear shell, allowing the supports to still be seen. This isn&amp;rsquo;t mine it&amp;rsquo;s a screenshot from &lt;a href=&#34;https://youtu.be/XF_DDf9N1hc&#34;&gt;this YouTube vid&lt;/a&gt;. I&amp;rsquo;m not going to build the full thing yet, just see if I can make the shell myself.&lt;/p&gt;
 &lt;p&gt;I ordered a clear replacement shell that&amp;rsquo;s been pre-modded to take an IPS display, just need to buy some spray paint.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Many days later thanks to USPS, the shell came in the mail. It&amp;rsquo;s a clear retrosix shell and its one of the better ones I&amp;rsquo;ve seen&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/paintboy/fig2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/paintboy/fig2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The next thing I needed was some spray paint, so I grabbed my super gameboy, jumped in my car and headed up to the home depot. After looking over the spray paint aisle, they didn&amp;rsquo;t really have what I was looking for, but I got something close. Oddly, &lt;a href=&#34;https://pbs.twimg.com/media/Btv1OD_CUAAICrF?format=jpg&amp;amp;name=medium&#34;&gt;my home state&lt;/a&gt; Maryalnd requires you to be at least 18 to buy spray paint. Good thing i&amp;rsquo;m 25.&lt;/p&gt;
 &lt;p&gt;This is really my first time spray painting anything, but I have watched some modding vids that go over it. After taping up the outside, cracking the garage door, I got to work. I put down one layer, then another, then another, and waited. After peeling the tape off, it came out pretty good. Some over spray on the edges, but for a first time ensnarement, it went pretty well. I&amp;rsquo;ll build something in this down the line.&lt;/p&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20PaintBoy%20Advance&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
 &lt;/center&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/paintboy/fig3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/paintboy/fig4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/paintboy/fig3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/paintboy/fig4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 	  </description>
 	</item>

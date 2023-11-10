@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Nathan&#39;s Site</title>
-	<link>https://example.org/tags/</link>
+	<link>https://nthp.me/tags/</link>
 	<description>Recent content in Tags on Nathan&#39;s Site</description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language><atom:link href="https://example.org/tags/feed.xml" rel="self" type="application/rss" />
+	<language>en-us</language><atom:link href="https://nthp.me/tags/feed.xml" rel="self" type="application/rss" />
   </channel>
 </rss>
