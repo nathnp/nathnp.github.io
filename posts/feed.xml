@@ -8,6 +8,82 @@
 	<language>en-us</language>
 	<lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate><atom:link href="https://nthp.me/posts/feed.xml" rel="self" type="application/rss" />
 	<item>
+	  <title>You Need a Website</title>
+	  <link>https://nthp.me/posts/you-need-a-website/</link>
+	  <pubDate>Sat, 11 Nov 2023 13:00:00 -0500</pubDate>
+	  
+	  <guid>https://nthp.me/posts/you-need-a-website/</guid>
+	  <description>
+		
+		&lt;p&gt;Nov 11, 2023&lt;/p&gt;
+&lt;p&gt;Jump to: &lt;a href=&#34;#need&#34;&gt;What You Need&lt;/a&gt; | &lt;a href=&#34;#domain&#34;&gt;Domain&lt;/a&gt; | &lt;a href=&#34;#host&#34;&gt;Host&lt;/a&gt; | &lt;a href=&#34;#site&#34;&gt;Site&lt;/a&gt; | &lt;a href=&#34;#what-i-use&#34;&gt;What I Use&lt;/a&gt; | &lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You need a website, plane and simple. But why, you might ask? &lt;br&gt;
+A website, is a place to call your own. A place to make your own. And a place to show off, you.&lt;/p&gt;
+&lt;p&gt;Having a site, not only looks more professional, but also helps you show off your skills, and hobbies. You don&amp;rsquo;t need to have a blog to do this. Even a simple landing page (like my home page), can say a lot about you. Starting a site also isn&amp;rsquo;t hard. You&amp;rsquo;ll just need a few things.&lt;/p&gt;
+&lt;div id=&#34;need&#34;&gt;
+&lt;h1 id=&#34;what-you-need-need&#34;&gt;What You Need &lt;a href=&#34;#need&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;aside&gt;
+	Some hosts will take care of the site part for you.
+&lt;/aside&gt;
+&lt;p&gt;You&amp;rsquo;ll need three basic things for your site. A domain (ie a name for your site), A site, and a host for that site.&lt;/p&gt;
+&lt;div id=&#34;domain&#34;&gt;
+&lt;h2 id=&#34;a-domain-domain&#34;&gt;A Domain &lt;a href=&#34;#domain&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A domain, is how people will get to your site. Take mine for example. &lt;code&gt;nthp.me&lt;/code&gt;. A domain is made of two main parts. a second level domain (SLD), and a top level domain (TLD). &lt;code&gt;SLD.TLD&lt;/code&gt;. The SLD is the main part you look for when buying a domain.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s look at a few domain as an example. My domain &lt;code&gt;nthp.me&lt;/code&gt;, the SLD is &lt;code&gt;nthp&lt;/code&gt;. and the TLD is &lt;code&gt;.me&lt;/code&gt;. And with &lt;code&gt;github.com&lt;/code&gt;. SLD &lt;code&gt;github&lt;/code&gt;, TLD, &lt;code&gt;.com&lt;/code&gt;. When buying a domain, most people will pick out an SLD. Then, see what TLDs have that SLD available.&lt;/p&gt;
+&lt;p&gt;Buying a domain is pretty easy. You just go to a registrar. Pick an available domain you like. Fill out the paperwork. Pay, and you&amp;rsquo;re done. That domain is now your&amp;rsquo;s, for one year. Don&amp;rsquo;t worry, your registrar will auto renew the domain for you.&lt;/p&gt;
+&lt;p&gt;Most domains cost around $10 - $30 per year.&lt;/p&gt;
+&lt;div id=&#34;host&#34;&gt;
+&lt;h2 id=&#34;a-host-host&#34;&gt;A Host &lt;a href=&#34;#host&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A host is just the service that makes your site available on the web. Most web hosts combine the &lt;a href=&#34;#site&#34;&gt;site&lt;/a&gt; and &lt;a href=&#34;#host&#34;&gt;host&lt;/a&gt; sections into one. Some however, do not.&lt;/p&gt;
+&lt;p&gt;Hosting comes in a wide rage of prices, and capabilities. You can pay anywhere from $18/month for a beginner friendly host. All the way down to $0/month (yes, really), if you&amp;rsquo;re down to do a lot of it yourself. If you are fine with paying a little per month. There are two good options for around $5/month.&lt;/p&gt;
+&lt;h4 id=&#34;wordpress&#34;&gt;Wordpress&lt;/h4&gt;
+&lt;p&gt;Wordpress comes in two main flavors. The &lt;a href=&#34;https://wordpress.com&#34;&gt;software as a service version&lt;/a&gt;. And the &lt;a href=&#34;https://wordpress.org&#34;&gt;Self host-able version&lt;/a&gt;. With the SaaS version, Wordpress will do the hosting for you. This starts at $6/month. Though, if you want more features, you&amp;rsquo;ll have to pay more per month.&lt;/p&gt;
+&lt;p&gt;The Self host-able version, is free. You just need to host it yourself. A good and cheep way to do this, is by using &lt;a href=&#34;https://linode.com&#34;&gt;Linode&lt;/a&gt;&amp;rsquo;s nanode server plan. The nanode only costs $5/month. Linode also has a Wordpress install script. Just fill out the form, and boom, Wordpress!&lt;/p&gt;
+&lt;h4 id=&#34;blotim&#34;&gt;Blot.im&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://blot.im&#34;&gt;Blot&lt;/a&gt; is a simple web host. You write some files using Markdown. Sync those to Blot, and you have a site. Unlike Wordpress SaaS, blot doesn&amp;rsquo;t have any feature tiers. $4/month will get you everything it has to offer.&lt;/p&gt;
+&lt;h4 id=&#34;the-free-way&#34;&gt;The Free Way&lt;/h4&gt;
+&lt;p&gt;Web hosts that don&amp;rsquo;t charge, usually do only that. Host. You&amp;rsquo;ll need ⬇️⬇️⬇️&lt;/p&gt;
+&lt;div id=&#34;site&#34;&gt;
+&lt;h2 id=&#34;a-site-site&#34;&gt;A Site &lt;a href=&#34;#site&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;If you choose a host that makes you bring your own site. You&amp;rsquo;ll have to make one on your own. You have two main options for that.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Do it all by hand&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use a static site generator&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I generally don&amp;rsquo;t recommend number one, if you want something more than a single page site.&lt;/p&gt;
+&lt;p&gt;If you want something bigger than a single page site. I highly recommend you use a static site generator (SSG). A static site generator, takes easy to write files (usually Markdown), and turn them into a ready to go site. There are three main ones to choose from. &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, &lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;, and &lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt;. Of these, I would recommend starting out with either Jekyll, or Hugo.&lt;/p&gt;
+&lt;div id=&#34;what-i-use&#34;&gt;
+&lt;h1 id=&#34;what-i-use-what-i-use&#34;&gt;What I use &lt;a href=&#34;#what-i-use&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This site is generated using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; locally on my Mac. For hosting I use &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;. This combo allows me a lot of flexibility on how I want my site to look. The main downside, is I have to do almost all the work my self. The upside to that. This site costs me $0/month to host.&lt;/p&gt;
+&lt;div id=&#34;links&#34;&gt;
+&lt;h1 id=&#34;links-to-start-your-journey-links&#34;&gt;Links To Start Your Journey &lt;a href=&#34;#links&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;h3 id=&#34;domain-registrar&#34;&gt;Domain Registrar&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://hover.com&#34;&gt;Hover&lt;/a&gt; &amp;lt;- What I use&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.godaddy.com&#34;&gt;GoDaddy&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;site-generators&#34;&gt;Site Generators&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; &amp;lt;- What I use&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;web-hosts&#34;&gt;Web Hosts&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt; &amp;lt;- What I use&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/user/project/pages/&#34;&gt;Gitlab Pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blot.im&#34;&gt;Blot.im&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org&#34;&gt;Wordpress Selfhost&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.com&#34;&gt;Wordpress SaaS&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: &lt;strong&gt;None&lt;/strong&gt; of these links are affiliate links&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20You%20Need%20A%20Website&#34;&gt; Reply to this post via email &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
+	<item>
 	  <title>Pen-Pal Thing</title>
 	  <link>https://nthp.me/posts/pen-pal-things/</link>
 	  <pubDate>Wed, 08 Nov 2023 17:39:18 -0500</pubDate>
