@@ -26,7 +26,7 @@
 &lt;p&gt;Write.as was pretty good. However, It&amp;rsquo;s pretty limited on customization. After a couple of years on it, I started looking around at other options.&lt;/p&gt;
 &lt;h3 id=&#34;wordpress&#34;&gt;Wordpress&lt;/h3&gt;
 &lt;aside&gt;
-	When moving to Wordpress, I moving my site to just &lt;code&gt;sulairris.com&lt;/code&gt;
+	When moving to Wordpress, I moved my site to just &lt;code&gt;sulairris.com&lt;/code&gt;
 &lt;/aside&gt;
 &lt;p&gt;I decided to go over to Wordpress. This move started with setting up an account on Wordpress.com. This didn&amp;rsquo;t last long. As they never got my SSL cert set up. I ended up running Wordpress on a Debian VM. That VM, was one of Linode&amp;rsquo;s Nanode VMs. The Nanode is a super tiny VM, that only costs $5/month.&lt;/p&gt;
 &lt;aside&gt;
