@@ -8,6 +8,50 @@
 	<language>en-us</language>
 	<lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate><atom:link href="https://nthp.me/posts/feed.xml" rel="self" type="application/rss" />
 	<item>
+	  <title>My Website Journey</title>
+	  <link>https://nthp.me/posts/my-website-journey/</link>
+	  <pubDate>Sun, 12 Nov 2023 01:07:04 -0500</pubDate>
+	  
+	  <guid>https://nthp.me/posts/my-website-journey/</guid>
+	  <description>
+		
+		&lt;p&gt;Nov 12, 2023&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve had a blog for a few years now. And over those few years, I&amp;rsquo;ve use a number of different hosting providers.&lt;/p&gt;
+&lt;p&gt;As I&amp;rsquo;ve recently moved to a new blogging set up. I decided, let&amp;rsquo;s take a look back. At how I used to host this site.&lt;/p&gt;
+&lt;h3 id=&#34;writeas&#34;&gt;Write.as&lt;/h3&gt;
+&lt;aside&gt;
+	During this time, my blog was on &lt;code&gt;blog.sulairris.com&lt;/code&gt;
+&lt;/aside&gt;
+&lt;p&gt;I started out my blogging adventure using Write.as. Write.as made getting started super easy. I made an account, and boom, I had a blog. For only $9/month.&lt;/p&gt;
+&lt;p&gt;Write.as was pretty good. However, It&amp;rsquo;s pretty limited on customization. After a couple of years on it, I started looking around at other options.&lt;/p&gt;
+&lt;h3 id=&#34;wordpress&#34;&gt;Wordpress&lt;/h3&gt;
+&lt;aside&gt;
+	When moving to Wordpress, I moving my site to just &lt;code&gt;sulairris.com&lt;/code&gt;
+&lt;/aside&gt;
+&lt;p&gt;I decided to go over to Wordpress. This move started with setting up an account on Wordpress.com. This didn&amp;rsquo;t last long. As they never got my SSL cert set up. I ended up running Wordpress on a Debian VM. That VM, was one of Linode&amp;rsquo;s Nanode VMs. The Nanode is a super tiny VM, that only costs $5/month.&lt;/p&gt;
+&lt;aside&gt;
+	I later rebuilt my site under a new domain, &lt;code&gt;nthp.me&lt;/code&gt;
+&lt;/aside&gt;
+&lt;p&gt;Wordpress starting getting on my nerves pretty quick. Wordpress is very, very good, at getting in the way. Over time, this just more, and more, annoying. Around this time as well, I want to be able to post from my phone. Wordpress had a mobile app, neat. That app however, needed a plugin installed. A plugin that wanted a Wordpress.com account&amp;hellip; No.&lt;/p&gt;
+&lt;h3 id=&#34;blot&#34;&gt;Blot&lt;/h3&gt;
+&lt;aside&gt;
+	I used to have a second RSS only blog on Blot, at &lt;code&gt;rss.nthp.me&lt;/code&gt;
+&lt;/aside&gt;
+&lt;p&gt;With wanting a more easy way to post from my phone, and less overhead. I started looking around at web hosts again. After seeing a post from &lt;a href=&#34;https://kevquirk.com/moving-from-jekyll-to-blot&#34;&gt;Kev&lt;/a&gt;, I decided to check out blot. Blot very quickly got my attention. Everything is done in Markdown, and synced over Git. This meant that I didn&amp;rsquo;t have to deal with Wordpress. I could also post from my phone using a mobile Git client. Neat. And the cherry on top, it was only $4/month. One dollar less than Linode. However, I started running into a problem.&lt;/p&gt;
+&lt;p&gt;When you send MD files to blot, blot will cache the files, and build a site out of them. Every now and then, that cache would get stuck. You could push new files, but they wouldn&amp;rsquo;t appear on the visible site. The only way I had to force the cache to refresh, was to email the dev. This made me start looking again.&lt;/p&gt;
+&lt;h3 id=&#34;the-present&#34;&gt;The Present&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m not going into all the different tools I looked at. That can be a whole blog post on it&amp;rsquo;s own. And I already kinda wrote it. You can read that &lt;a href=&#34;https://nthp.me/posts/new-new-site/&#34;&gt;here&lt;/a&gt;. This site, is using three main components. Hugo, Simple.CSS, and Github Pages. Hugo is what generates my site. When I want to make a post. I write it as an MD file. Then I have have Hugo generate the entire website. Boom, website.&lt;/p&gt;
+&lt;p&gt;By default, that website would look, kinda bad. To make the site site look better, I use Simple.CSS. Simple.CSS is great for two main reasons. 1. It look pretty good and professional. And 2. I don&amp;rsquo;t have to learn CSS to use it, and that makes my happy.&lt;/p&gt;
+&lt;p&gt;Unlike with the previous systems. That fancy site I made, lives only on my Mac&amp;hellip; That&amp;rsquo;s&amp;hellip; kinda an issue. Lucky I had a couple of options. I ended up going with Github Pages, as I already use Github, and it&amp;rsquo;s free. Yep, free static site hosting. This dropped my costs for my blog from $4/month, to nothing.&lt;/p&gt;
+&lt;h3 id=&#34;thoughts-on-all-this&#34;&gt;Thoughts On All This&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve moved around a lot. And because of that, I&amp;rsquo;ve learned a lot. I&amp;rsquo;ve learned of a number of good hosts. How to spin up a Wordpress VM in the cloud. A number of static site generator tools. And started learning about Github Actions. But, my favorite thing I&amp;rsquo;ve learned from all this. Is how to set up a fully featured site / blog, for free.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20My%20Website%20Journey&#34;&gt; Reply to this post via email 📫&lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
+	<item>
 	  <title>Default Things 2023</title>
 	  <link>https://nthp.me/posts/default-things-2023/</link>
 	  <pubDate>Sat, 11 Nov 2023 18:17:38 -0500</pubDate>
