@@ -8,6 +8,34 @@
 	<language>en-us</language>
 	<lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate><atom:link href="https://nthp.me/posts/feed.xml" rel="self" type="application/rss" />
 	<item>
+	  <title>Being Lazy With Shortcuts</title>
+	  <link>https://nthp.me/posts/being-lazy-with-shortcuts/</link>
+	  <pubDate>Sun, 12 Nov 2023 17:51:01 -0500</pubDate>
+	  
+	  <guid>https://nthp.me/posts/being-lazy-with-shortcuts/</guid>
+	  <description>
+		
+		&lt;p&gt;Nov 12, 2023&lt;/p&gt;
+&lt;p&gt;At the bottom of every post. I have a reply via email button. This button does three main things. 1. It opens your default email client, 2. It pre fills the To field for you, and 3. It pre fills the subject.&lt;/p&gt;
+&lt;p&gt;This is the HTML for the reply button in this post&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-HTML&#34; data-lang=&#34;HTML&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;center&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;button&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Being%20Lazy%20With%20Shortcuts&amp;#34;&lt;/span&gt;&amp;gt; Reply to this post via email 📫&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;center&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It&amp;rsquo;s pretty simple, but if you look, there are a couple of things that make it a slight pain. If you look at the &lt;code&gt;?subject=&lt;/code&gt; part, you&amp;rsquo;ll notice a lot of &lt;code&gt;%20&lt;/code&gt;s. This is because you can&amp;rsquo;t have a space in a url. The other thing you might notice. Is that there&amp;rsquo;s an emoji at the end. What&amp;rsquo;s so painful about that? If you look at my other posts, they each have a different emoji, on the reply button. This combination, makes it pain to add. So I wrote a shortcut.&lt;/p&gt;
+&lt;p&gt;The shortcut is pretty simple. It asks for the subject, and replaces the spaces, with &lt;code&gt;%20&lt;/code&gt;s. It then will randomly select a mail themed emoji from an internal list. Finally, it copies the output to my clipboard. Then all I have to do, is paste it into Nova.&lt;/p&gt;
+&lt;p&gt;If you’d like to use this shortcut, you can click this button to add it.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;https://www.icloud.com/shortcuts/bcfb8006db024bbcab2b006797a8b033&#34;&gt; Add Shortcut &lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Being%20Lazy%20With%20Shortcuts&#34;&gt; Reply to this post via email 📫&lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
+	<item>
 	  <title>My Website Journey</title>
 	  <link>https://nthp.me/posts/my-website-journey/</link>
 	  <pubDate>Sun, 12 Nov 2023 01:07:04 -0500</pubDate>
