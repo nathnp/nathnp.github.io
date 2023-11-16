@@ -15,7 +15,7 @@
 	  <guid>https://nthp.me/posts/writing-a-post/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Nov 14, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Nov 14, 2023&lt;/p&gt;
 &lt;p&gt;Posting on a static site is interesting. You don’t fire up a website and start typing. Nor do you just drag and drop photos. You have to make the whole web page, yourself. It’s not that hard. Though, it can be confusing if you’re used to a CMS. Here’s my work flow.&lt;/p&gt;
 &lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;
 &lt;p&gt;I start off by firing up &lt;a href=&#34;https://nova.app&#34;&gt;Nova&lt;/a&gt;. In it I have three projects for this site. Dev, Pub, and Prod. Dev, is where I do all my work. Pub, is a public snapshot of Dev that gets updated when changes are pushed to Prod. Prod, is production. This is where Github serves the site from. Pushing changes to here will cause Github to automatically redeploy the site, with those changes.&lt;/p&gt;
@@ -85,7 +85,7 @@ Subject: &lt;code&gt;RE: Writing a Post&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/my-new-old-webcam/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Nov 13, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Nov 13, 2023&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve had an Analogue Pocket for a while now. If you don&amp;rsquo;t known what the Pocket is, it’s a handheld FPGA game system. Capable of replicating a ton of old game systems. You can learn more about it &lt;a href=&#34;https://www.analogue.co/pocket&#34;&gt;here&lt;/a&gt;. One neat thing about the Pocket, it has a GB / GBA slot on it. I&amp;rsquo;ve been playing GBA games on it since I got it. But only recently, did I pick up its dock.&lt;/p&gt;
 &lt;p&gt;The dock, let&amp;rsquo;s you plug it into a TV. That&amp;rsquo;s it. Alright, it also has two USB ports on it, and let&amp;rsquo;s you connect a bunch of different wireless controllers. After using the dock for a few days, I had an idea.&lt;/p&gt;
 &lt;p&gt;Quite a while back. People were sharing an article about how a dude used a GameBoy Camera for Zoom. There was nothing really special about it. He was using a Pocket, its dock, and a cheap capture card. So I bought a cheap capture card.&lt;/p&gt;
@@ -113,7 +113,7 @@ Subject: &lt;code&gt;RE: My New Old Webcam&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/being-lazy-with-shortcuts/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Nov 12, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Nov 12, 2023&lt;/p&gt;
 &lt;p&gt;At the bottom of every post. I have a reply via email button. This button does three main things. 1. It opens your default email client, 2. It pre fills the To field for you, and 3. It pre fills the subject.&lt;/p&gt;
 &lt;p&gt;This is the HTML for the reply button in this post&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-HTML&#34; data-lang=&#34;HTML&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;center&lt;/span&gt;&amp;gt;
@@ -144,7 +144,7 @@ Subject: &lt;code&gt;RE: Being Lazy With Shortcuts&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/my-website-journey/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Nov 12, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Nov 12, 2023&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve had a blog for a few years now. And over those few years, I&amp;rsquo;ve used a number of different hosting providers.&lt;/p&gt;
 &lt;p&gt;As I&amp;rsquo;ve recently moved to a new blogging set up. I decided, let&amp;rsquo;s take a look back. At how I used to host this site.&lt;/p&gt;
 &lt;h3 id=&#34;writeas&#34;&gt;Write.as&lt;/h3&gt;
@@ -191,7 +191,7 @@ Subject: &lt;code&gt;RE: My Website Journey&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/default-things-2023/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Nov 11, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Nov 11, 2023&lt;/p&gt;
 &lt;p&gt;Over the past few days, I&amp;rsquo;ve been seeing a lot of posts in my RSS reader. A number of people are posting what their go to apps and things are for the end of 2023. So I decided, why not add to it. Here are my default things for the end of 2023.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Mail Client: Apple Mail &lt;br&gt;&lt;/li&gt;
@@ -237,7 +237,7 @@ Subject: &lt;code&gt;RE: Default Things 2023&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/you-need-a-website/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Nov 11, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Nov 11, 2023&lt;/p&gt;
 &lt;p&gt;Jump to: &lt;a href=&#34;#need&#34;&gt;What You Need&lt;/a&gt; | &lt;a href=&#34;#domain&#34;&gt;Domain&lt;/a&gt; | &lt;a href=&#34;#host&#34;&gt;Host&lt;/a&gt; | &lt;a href=&#34;#site&#34;&gt;Site&lt;/a&gt; | &lt;a href=&#34;#what-i-use&#34;&gt;What I Use&lt;/a&gt; | &lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;You need a website, plane and simple. But why, you might ask? &lt;br&gt;
 A website, is a place to call your own. A place to make your own. And a place to show off, you.&lt;/p&gt;
@@ -316,7 +316,7 @@ Subject: &lt;code&gt;RE: You Need a Website&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/pen-pal-things/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Nov 11, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Nov 11, 2023&lt;/p&gt;
 &lt;p&gt;Recently, Kev posted a &lt;a href=&#34;https://kevquirk.com/seeking-pen-pals&#34;&gt;blog post&lt;/a&gt; about wanting pen-pals. He posed an a simple plan.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;If you&amp;rsquo;re interested in taking part, drop me an email using the reply button at the bottom of this post. &lt;br&gt;
@@ -350,7 +350,7 @@ Subject: &lt;code&gt;RE: Pen-Pal Thing&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/new-new-site/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Nov 6, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Nov 6, 2023&lt;/p&gt;
 &lt;p&gt;Welp, this was a pain.&lt;/p&gt;
 &lt;p&gt;Over the past few days, I have been working on moving my website. Why you might ask? Let&amp;rsquo;s go over that.&lt;/p&gt;
 &lt;p&gt;For a while, I was hosting this site on &lt;a href=&#34;https://blot.im&#34;&gt;blot.im&lt;/a&gt;. Blot basically takes a bunch of markdown files you send them, and turns them into a website. I was a big fan of this. Simple, easy, and flexible. However, I started running into problems.&lt;/p&gt;
@@ -379,7 +379,7 @@ Subject: &lt;code&gt;RE: New New Site&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/stealth-flipper/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Nov 1, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Nov 1, 2023&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s be honest, most flipper users use the flipper to dick around. You know, pop Tesla charge covers, set off CVS alcohol announcements (Bonus points if you do it in a state CVS can&amp;rsquo;t sell alcohol in (Like Maryland)). You know, fun stuff. The Flipper is unfortunately recognizable (Thanks to dumpsters like TikTok). So, if we&amp;rsquo;re going to have some fun in a CVS, or a Tesla store, we need to be a bit sneaky.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;NOTE: This post doesn&amp;rsquo;t cover Android, as I don&amp;rsquo;t use that.&lt;/p&gt;
@@ -423,7 +423,7 @@ Subject: &lt;code&gt;RE: Stealth Flipper&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/fast-flashdrive/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Oct 27, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Oct 27, 2023&lt;/p&gt;
 &lt;p&gt;A while back, I upgraded the storage in my Steam Deck. Going from 512GB, to 2TB. The upgrade was so worth it. But, as a result, I had a 512GB SSD just sitting around.&lt;/p&gt;
 &lt;p&gt;After a while, I ended up ordering an NVME SSD enclosure.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://nthp.me/pics/fast-flashdrive/fig1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -446,7 +446,7 @@ Subject: &lt;code&gt;RE: Making a Fast As Hell Flash Drive&lt;/code&gt;&lt;/p&gt
 	  <guid>https://nthp.me/posts/turning-off-analytics/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Oct 26, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Oct 26, 2023&lt;/p&gt;
 &lt;p&gt;For the past month, I&amp;rsquo;ve been running analytics on both of my websites. The service I&amp;rsquo;ve been using for this is &lt;a href=&#34;https://plausible.io/&#34;&gt;Plausible.io&lt;/a&gt;. I went with them for a couple of reasons. Mainly, they didn&amp;rsquo;t look hungry for personal data. I&amp;rsquo;ve been enjoying them quite a lot. They have a good, very easy to use interface. That&amp;rsquo;s also not over whelming. But, I&amp;rsquo;m going to be turning analytics off, at least for now.&lt;/p&gt;
 &lt;h2 id=&#34;why-i-started&#34;&gt;Why I started&lt;/h2&gt;
 &lt;p&gt;I started using analytics to simply see how many people were going to my site. As well as from what countries. The UK, Poland, Romania, and Czechia, are just a few that have visited my main site. That&amp;rsquo;s what I&amp;rsquo;ve been enjoying the most.&lt;/p&gt;
@@ -471,7 +471,7 @@ Subject: &lt;code&gt;RE: Turning Off Analytics For Now&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/system-source-museum/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Oct 25, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Oct 25, 2023&lt;/p&gt;
 &lt;p&gt;Jump to: &lt;a href=&#34;#trip&#34;&gt;The Trip&lt;/a&gt; | &lt;a href=&#34;#museum&#34;&gt;The Museum&lt;/a&gt; | &lt;a href=&#34;#g15&#34;&gt;G15&lt;/a&gt; | &lt;a href=&#34;#thoughts&#34;&gt;Thoughts&lt;/a&gt; &lt;br&gt;
 Quick Links: &lt;a href=&#34;https://www.flickr.com/photos/197704187@N04/albums/72177720312149715/with/53281603158/&#34;&gt;Flickr Album&lt;/a&gt; | &lt;a href=&#34;https://museum.syssrc.com&#34;&gt;Museum Website&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A couple days ago, I went to a bucket list level computer museum here in Maryland. A few weeks ago, a Youtube channel that I watch &lt;a href=&#34;https://www.youtube.com/@UsagiElectric&#34;&gt;Usagi Electric&lt;/a&gt;, has been working on an old 1950&amp;rsquo;s computer (on loan for repair from the museum), and announced that he would be at the museum to swap out a part. He also said, that it would also be a meet and greet.&lt;/p&gt;
@@ -549,7 +549,7 @@ Subject: &lt;code&gt;RE: System Source Museum&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/secret-guest-network/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Oct 22, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Oct 22, 2023&lt;/p&gt;
 &lt;p&gt;Imagine this, you have some people over, and they want the password to your WiFi. You trust them, but not “you can be on my network” trust them. So you give them the guest network login. They get mad and leave, and now you&amp;rsquo;re down a couple friends. But what if you could have a hidden guest network, that looks just like your main one, maybe that would let you keep some friends.&lt;/p&gt;
 &lt;p&gt;Ubiquity has rolled out support for PPSK (Private Pre Shared Keys). That let&amp;rsquo;s you have multiple networks, behind one SSID. This is handy, as having too many SSIDs can hurt performance.&lt;/p&gt;
 &lt;p&gt;What PPKS does, is let you automatically put a host on a VLAN, depending on what password they use. For example, let&amp;rsquo;s say we have a WiFi network called &amp;ldquo;BullsEyeWiFi&amp;rdquo;. We can set up PPSK so that anyone who uses the password &amp;ldquo;GoodPassw0rd1!&amp;rdquo;, will be put on VLAN 1. And anyone who uses the password &amp;ldquo;Playground&amp;rdquo;, will get put on VLAN 2.&lt;/p&gt;
@@ -574,7 +574,7 @@ Subject: &lt;code&gt;RE: The Secret Guest Network&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/flying-home/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Aug 31, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Aug 31, 2023&lt;/p&gt;
 &lt;h2 id=&#34;den-to-ind&#34;&gt;DEN to IND&lt;/h2&gt;
 &lt;p&gt;On my way back home, currently on a flight from DED to IND. No problems with this one, unlike my flight out.&lt;/p&gt;
 &lt;p&gt;Unfortunately, unlike this leg, not all is well with me. I fell pretty ill last night, and was wondering if I was going to be fit to fly the next morning. &lt;br&gt;
@@ -618,7 +618,7 @@ Subject: &lt;code&gt;RE: Flying Home&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/flight-update-3/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Aug 21, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
 &lt;p&gt;I am now on my way from RDU to DEN. &lt;br&gt;
 After everyone getting off at RDU (all but 16), and a headcount was taken, we were able to move seats. I moved from the very back, to the very front. Hoping to make a speedy exit at DEN.&lt;/p&gt;
 &lt;p&gt;I mentioned at the end of my last post, that my in flight entertainment is a bunch of plane crash documentaries. I downloaded 16 20 - 40 min videos by Green Dot Aviation (fantastic channel). To help make sure the person next to me doesn&amp;rsquo;t get nervous, I have the videos playing in the mini player in the corner on my mac.&lt;/p&gt;
@@ -674,7 +674,7 @@ Subject: &lt;code&gt;RE: Flight Update 3&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/flight-update-2/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Aug 21, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
 &lt;p&gt;I am on a plane, crazy I know. First I was scheduled for one flight, then I got bumped to another, but you read that (I hope). When I left off I was at gate B8 at BWI, things changed pretty quick after posting. &lt;br&gt;
 I took off from (get it) the gate to use the restroom, when I got back, the flight info display was showing a different flight. What&amp;hellip; I pulled out my phone and checked my boarding pass. My gate had changed to A14, halfway across the airport&amp;hellip; I had plenty of time to get there, and I got there fine. &lt;br&gt;
 I had to wait some more, as the plane at the gate hadn&amp;rsquo;t left yet, thus mine couldn&amp;rsquo;t pull in.&lt;/p&gt;
@@ -698,7 +698,7 @@ Subject: &lt;code&gt;RE: Flight Update 2&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/flight-update/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Aug 21, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
 &lt;p&gt;While waiting for my already delayed flight, I got a text saying that I had been rebooked to a new flight&amp;hellip;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Later in the day. &lt;br&gt;
 I was scheduled to fly from BWI at 13:40 to ATL, then to DEN. Now I&amp;rsquo;m going from BWI at 15:25 to RDU to DEN&amp;hellip; fun. And because I was rebooked, I&amp;rsquo;ve been dumped to boarding group C out of&amp;hellip; C. It&amp;rsquo;s not all bad, while I&amp;rsquo;ll be stopping in RDU, I&amp;rsquo;m not changing planes. So I can get a better seat that way. BWI to RDU is only about 1H 5M. Hoping I don&amp;rsquo;t get any more surprises on the flight.&lt;/p&gt;
 &lt;p&gt;I you want to join me on this craziness, follow me on &lt;a href=&#34;https://fosstodon.org/@nthp&#34;&gt;Mastodon @nthp@fosstodon.org&lt;/a&gt;&lt;/p&gt;
@@ -728,7 +728,7 @@ Subject: &lt;code&gt;RE: Flight Update&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/new-mastodon/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Aug 21, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Aug 21, 2023&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Note: This post is old and I have moved to Fosstodon&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -762,7 +762,7 @@ Subject: &lt;code&gt;RE: New Mastodon Handle&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/the-day-cation/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Aug 2, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Aug 2, 2023&lt;/p&gt;
 &lt;p&gt;Jump to: &lt;a href=&#34;#idea&#34;&gt;The Idea&lt;/a&gt; | &lt;a href=&#34;#planing&#34;&gt;Planing&lt;/a&gt; | &lt;a href=&#34;#trip&#34;&gt;The Trip&lt;/a&gt; | &lt;a href=&#34;#thoughts&#34;&gt;Thoughts&lt;/a&gt; &lt;br&gt;
 Quick Links: &lt;a href=&#34;https://www.flickr.com/photos/197704187@N04/albums/72177720310228473&#34;&gt;Trip Photos&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve always loved a good vacation, who doesn&amp;rsquo;t. But vacations take time. Time to plan. And time to take. Why not just take a day trip, you say. Why not to drive somewhere for a day, you ask. I live near DC, so a day trip is going down to DC for the whatever-ith time.&lt;/p&gt;
@@ -908,7 +908,7 @@ Subject: &lt;code&gt;RE: The Day-cation&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/need-to-immediately-replace/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Jul 2, 2023&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Jul 2, 2023&lt;/p&gt;
 &lt;p&gt;With the closing down of third party Reddit apps, a number of people are moving over to things like kbin. And that has me wondering, are the new users of kbin, going to try and turn it into Reddit.&lt;/p&gt;
 &lt;p&gt;This is something I’ve noticed over on Mastodon. When a large number a of new Mastodon users signed up, they very quickly started pushing for some new features. Those “new” features were just things that Twitter had, that Mastodon didn’t. It didn’t feel like they wanted to improve the Mastodon network. It felt like they wanted to turn it into what &lt;strong&gt;they&lt;/strong&gt; were used to, instead of getting used to Mastodon.&lt;/p&gt;
 &lt;p&gt;We’ll see if this happens with kbin and other like it.&lt;/p&gt;
@@ -929,7 +929,7 @@ Subject: &lt;code&gt;RE: The Need to Immediately Replace&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/paintboy-advance/</guid>
 	  <description>
 		
-		&lt;p&gt;&lt;mark&gt;Oct 26, 2021&lt;/mark&gt;&lt;/p&gt;
+		&lt;p&gt;Oct 26, 2021&lt;/p&gt;
 &lt;h1 id=&#34;paintboy-advance&#34;&gt;PaintBoy advance&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;m not new to modded gameboys. I&amp;rsquo;ve put IPS screens in a DMG and an SP, and I built an &lt;a href=&#34;https://fosstodon.org/@Sulairris/106783968641330983&#34;&gt;all metal gameboy advance&lt;/a&gt;. Ive gotten the itch to build a custom GBA again after working on my girlfriend&amp;rsquo;s GBA, I just need an idea…&lt;/p&gt;
 &lt;hr&gt;
