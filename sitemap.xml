@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nthp.me/posts/adding-tags/</loc>
+    <lastmod>2023-12-02T21:51:37-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/tags/</loc>
+    <lastmod>2023-12-02T21:51:37-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/tags/web/</loc>
+    <lastmod>2023-12-02T21:51:37-05:00</lastmod>
+  </url><url>
     <loc>https://nthp.me/posts/the-phones-ive-used/</loc>
     <lastmod>2023-11-20T20:04:56-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/new-road-who-this/</loc>
     <lastmod>2023-11-16T15:01:05-05:00</lastmod>
-  </url><url>
-    <loc>https://nthp.me/tags/</loc>
-    <lastmod>2023-11-14T18:24:27-05:00</lastmod>
-  </url><url>
-    <loc>https://nthp.me/tags/web/</loc>
-    <lastmod>2023-11-14T18:24:27-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/writing-a-post/</loc>
     <lastmod>2023-11-14T18:24:27-05:00</lastmod>
