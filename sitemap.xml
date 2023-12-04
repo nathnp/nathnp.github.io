@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nthp.me/posts/adding-tags/</loc>
-    <lastmod>2023-12-02T21:51:37-05:00</lastmod>
+    <loc>https://nthp.me/posts/deck-oled/</loc>
+    <lastmod>2023-12-04T11:21:40-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/tags/steam-deck/</loc>
+    <lastmod>2023-12-04T11:21:40-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/tags/</loc>
+    <lastmod>2023-12-04T11:21:40-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/posts/adding-tags/</loc>
     <lastmod>2023-12-02T21:51:37-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/tags/web/</loc>
