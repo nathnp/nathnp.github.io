@@ -59,5 +59,30 @@ Subject: &lt;code&gt;RE: My Home Lab&lt;/code&gt;&lt;/p&gt;
 	  </description>
 	</item>
 	
+	<item>
+	  <title>The Secret Guest Network</title>
+	  <link>https://nthp.me/posts/secret-guest-network/</link>
+	  <pubDate>Sun, 22 Oct 2023 22:52:29 -0500</pubDate>
+	  
+	  <guid>https://nthp.me/posts/secret-guest-network/</guid>
+	  <description>
+		
+		&lt;p&gt;Oct 22, 2023&lt;/p&gt;
+&lt;p&gt;Imagine this, you have some people over, and they want the password to your WiFi. You trust them, but not “you can be on my network” trust them. So you give them the guest network login. They get mad and leave, and now you&amp;rsquo;re down a couple friends. But what if you could have a hidden guest network, that looks just like your main one, maybe that would let you keep some friends.&lt;/p&gt;
+&lt;p&gt;Ubiquity has rolled out support for PPSK (Private Pre Shared Keys). That let&amp;rsquo;s you have multiple networks, behind one SSID. This is handy, as having too many SSIDs can hurt performance.&lt;/p&gt;
+&lt;p&gt;What PPKS does, is let you automatically put a host on a VLAN, depending on what password they use. For example, let&amp;rsquo;s say we have a WiFi network called &amp;ldquo;BullsEyeWiFi&amp;rdquo;. We can set up PPSK so that anyone who uses the password &amp;ldquo;GoodPassw0rd1!&amp;rdquo;, will be put on VLAN 1. And anyone who uses the password &amp;ldquo;Playground&amp;rdquo;, will get put on VLAN 2.&lt;/p&gt;
+&lt;p&gt;Now that&amp;rsquo;s a pretty business example. A more home user example would be: Having a segregated guest network, on the same SSID as your main one. This way, you can put your house guests on a guest network, without them having any idea. And thus, keeping them as friends.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/pics/guestnetwork/fig1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Heres a good video from Cameron Gray Going over PPSK on UNiFi. And its downside (It doesn&amp;rsquo;t work on WPA3 networks (That includes 6GHz networks)).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DvhU7roLviY&amp;amp;t=1228s&#34;&gt;https://www.youtube.com/watch?v=DvhU7roLviY&amp;amp;t=1228s&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20The%20Secret%20Guest%20Network&#34;&gt; Reply to this post via email 📫&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For Webmail Users &lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Subject: &lt;code&gt;RE: The Secret Guest Network&lt;/code&gt;&lt;/p&gt;
+&lt;/center&gt;
+	  </description>
+	</item>
+	
   </channel>
 </rss>
