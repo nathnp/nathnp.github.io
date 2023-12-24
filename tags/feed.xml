@@ -6,7 +6,19 @@
 	<description>Recent content in Tags on Nathan&#39;s Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Thu, 21 Dec 2023 13:05:44 -0500</lastBuildDate><atom:link href="https://nthp.me/tags/feed.xml" rel="self" type="application/rss" />
+	<lastBuildDate>Sat, 23 Dec 2023 20:06:34 -0500</lastBuildDate><atom:link href="https://nthp.me/tags/feed.xml" rel="self" type="application/rss" />
+	<item>
+	  <title>Web</title>
+	  <link>https://nthp.me/tags/web/</link>
+	  <pubDate>Sat, 23 Dec 2023 20:06:34 -0500</pubDate>
+	  
+	  <guid>https://nthp.me/tags/web/</guid>
+	  <description>
+		
+		
+	  </description>
+	</item>
+	
 	<item>
 	  <title>Monitors</title>
 	  <link>https://nthp.me/tags/monitors/</link>
@@ -49,18 +61,6 @@
 	  <pubDate>Tue, 05 Dec 2023 16:05:33 -0500</pubDate>
 	  
 	  <guid>https://nthp.me/tags/networking/</guid>
-	  <description>
-		
-		
-	  </description>
-	</item>
-	
-	<item>
-	  <title>Web</title>
-	  <link>https://nthp.me/tags/web/</link>
-	  <pubDate>Sat, 02 Dec 2023 21:51:37 -0500</pubDate>
-	  
-	  <guid>https://nthp.me/tags/web/</guid>
 	  <description>
 		
 		
