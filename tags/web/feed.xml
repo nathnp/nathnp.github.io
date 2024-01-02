@@ -62,11 +62,17 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/details&gt;
 &lt;p&gt;I’ve learned from my students, that examples go a long way. Not only did I put examples in the readme instructions, I also spun up a simple demo site. The demo site is hosted out of the demo branch, so its index file is easily viewable&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;I’m hoping this will help a few students get a basic landing page up. I even dropped a link to the GitHub pages docs for free hosting. I might follow this post up in a few semesters with how’s it’s gone.&lt;/p&gt;
-&lt;p&gt;You can find the GitHub repo &lt;a href=&#34;https://github.com/nathnp/Basic-Site-Template&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find the GitHub repo &lt;a href=&#34;https://github.com/nathnp/Basic-Site-Template&#34; target=&#34;_blank&#34;&gt;
+  here
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20A%20Basic%20Site%20Template&#34;&gt; Reply to this post via email 📫&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For Webmail Users &lt;br&gt;
-Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;
+  reply.13a8f@nthp.me
+&lt;/a&gt;
+&lt;/code&gt;&lt;br&gt;
 Subject: &lt;code&gt;RE: A Basic Site Template&lt;/code&gt;&lt;/p&gt;
 &lt;/center&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
@@ -154,7 +160,10 @@ This is my taxonomy file. Its pretty much the same as list.html, just without th
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Adding%20Tags&#34;&gt; Reply to this post via email 📪&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For Webmail Users &lt;br&gt;
-Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;
+  reply.13a8f@nthp.me
+&lt;/a&gt;
+&lt;/code&gt;&lt;br&gt;
 Subject: &lt;code&gt;RE: Adding Tags&lt;/code&gt;&lt;/p&gt;
 &lt;/center&gt;
 	  </description>
@@ -171,7 +180,10 @@ Subject: &lt;code&gt;RE: Adding Tags&lt;/code&gt;&lt;/p&gt;
 		&lt;p&gt;Nov 14, 2023&lt;/p&gt;
 &lt;p&gt;Posting on a static site is interesting. You don’t fire up a website and start typing. Nor do you just drag and drop photos. You have to make the whole web page, yourself. It’s not that hard. Though, it can be confusing if you’re used to a CMS. Here’s my work flow.&lt;/p&gt;
 &lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;
-&lt;p&gt;I start off by firing up &lt;a href=&#34;https://nova.app&#34;&gt;Nova&lt;/a&gt;. In it I have three projects for this site. Dev, Pub, and Prod. Dev, is where I do all my work. Pub, is a public snapshot of Dev that gets updated when changes are pushed to Prod. Prod, is production. This is where Github serves the site from. Pushing changes to here will cause Github to automatically redeploy the site, with those changes.&lt;/p&gt;
+&lt;p&gt;I start off by firing up &lt;a href=&#34;https://nova.app&#34; target=&#34;_blank&#34;&gt;
+  Nova
+&lt;/a&gt;
+. In it I have three projects for this site. Dev, Pub, and Prod. Dev, is where I do all my work. Pub, is a public snapshot of Dev that gets updated when changes are pushed to Prod. Prod, is production. This is where Github serves the site from. Pushing changes to here will cause Github to automatically redeploy the site, with those changes.&lt;/p&gt;
 &lt;p&gt;Drafts are written in Dev, so I open up that project. I start off by running the command &lt;code&gt;hugo new content posts/&amp;lt;filename&amp;gt;.md&lt;/code&gt;. Why do this rather than just making a new file? Simple, running this will pre-fill the file with stuff I don’t want to type.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;+++
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;title = &amp;#39;Writing a Post&amp;#39;
@@ -184,7 +196,10 @@ Subject: &lt;code&gt;RE: Adding Tags&lt;/code&gt;&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;!!SET DRAFT FLAG!!
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;There are two main things here. The first is at the top. That&amp;rsquo;s the front mater for this post. It basically tells Hugo about the post. Title, publishing date, and whether or not it it’s a draft. The second thing, is a bunch of reminders. These remind me to 1. Set the publishing date on the page. 2. Set the publishing date in the front mater. And 3. Set the draft flag so it can be published.&lt;/p&gt;
 &lt;p&gt;After the file is created, I then run &lt;code&gt;hugo server -D&lt;/code&gt;. This will start a local web server with my site. That way I can see exactly how my post will look, before I push it to Prod. And then, I write.&lt;/p&gt;
-&lt;p&gt;The post files are written in Markdown. A super easy to learn (and read) markup language. You can see an example by looking at this site’s &lt;a href=&#34;https://github.com/nathnp/Nathans-site&#34;&gt;public repo&lt;/a&gt; on Github. Things get a little interesting when it comes to images, and replies.&lt;/p&gt;
+&lt;p&gt;The post files are written in Markdown. A super easy to learn (and read) markup language. You can see an example by looking at this site’s &lt;a href=&#34;https://github.com/nathnp/Nathans-site&#34; target=&#34;_blank&#34;&gt;
+  public repo
+&lt;/a&gt;
+ on Github. Things get a little interesting when it comes to images, and replies.&lt;/p&gt;
 &lt;h3 id=&#34;adding-images&#34;&gt;Adding Images&lt;/h3&gt;
 &lt;p&gt;Images can be a minor pain at first, till you get the hang of it. First, you need an image. In Hugo, images go in the &lt;code&gt;static&lt;/code&gt; folder. To help with organization, I also use sub folders. &lt;code&gt;static/pics/&amp;lt;post name&amp;gt;/&lt;/code&gt;. Pictures will get named &lt;code&gt;fig&amp;lt;number&amp;gt;&lt;/code&gt;, and gifs will get named &lt;code&gt;gif&amp;lt;number&amp;gt;&lt;/code&gt;. Now I can easily call the image using Markdown in the post.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;![](/pics/writing-a-post/fig1.png)&lt;/code&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
@@ -212,7 +227,10 @@ Subject: &lt;code&gt;RE: Adding Tags&lt;/code&gt;&lt;/p&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Writing%20a%20Post&#34;&gt; Reply to this post via email 📮&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For Webmail Users &lt;br&gt;
-Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;
+  reply.13a8f@nthp.me
+&lt;/a&gt;
+&lt;/code&gt;&lt;br&gt;
 Subject: &lt;code&gt;RE: Writing a Post&lt;/code&gt;&lt;/p&gt;
 &lt;/center&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
@@ -255,7 +273,10 @@ Subject: &lt;code&gt;RE: Writing a Post&lt;/code&gt;&lt;/p&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Being%20Lazy%20With%20Shortcuts&#34;&gt; Reply to this post via email 📪&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For Webmail Users &lt;br&gt;
-Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;
+  reply.13a8f@nthp.me
+&lt;/a&gt;
+&lt;/code&gt;&lt;br&gt;
 Subject: &lt;code&gt;RE: Being Lazy With Shortcuts&lt;/code&gt;&lt;/p&gt;
 &lt;/center&gt;
 	  </description>
@@ -291,10 +312,16 @@ Subject: &lt;code&gt;RE: Being Lazy With Shortcuts&lt;/code&gt;&lt;/p&gt;
 &lt;aside&gt;
 	I used to have a second RSS only blog on Blot, at &lt;code&gt;rss.nthp.me&lt;/code&gt;
 &lt;/aside&gt;
-&lt;p&gt;With wanting a more easy way to post from my phone, and less overhead. I started looking around at web hosts again. After seeing a post from &lt;a href=&#34;https://kevquirk.com/moving-from-jekyll-to-blot&#34;&gt;Kev&lt;/a&gt;, I decided to check out blot. Blot very quickly got my attention. Everything is done in Markdown, and synced over Git. This meant that I didn&amp;rsquo;t have to deal with Wordpress. I could also post from my phone using a mobile Git client. Neat. And the cherry on top, it was only $4/month. One dollar less than Linode. However, I started running into a problem.&lt;/p&gt;
+&lt;p&gt;With wanting a more easy way to post from my phone, and less overhead. I started looking around at web hosts again. After seeing a post from &lt;a href=&#34;https://kevquirk.com/moving-from-jekyll-to-blot&#34; target=&#34;_blank&#34;&gt;
+  Kev
+&lt;/a&gt;
+, I decided to check out blot. Blot very quickly got my attention. Everything is done in Markdown, and synced over Git. This meant that I didn&amp;rsquo;t have to deal with Wordpress. I could also post from my phone using a mobile Git client. Neat. And the cherry on top, it was only $4/month. One dollar less than Linode. However, I started running into a problem.&lt;/p&gt;
 &lt;p&gt;When you send MD files to blot, blot will cache the files, and build a site out of them. Every now and then, that cache would get stuck. You could push new files, but they wouldn&amp;rsquo;t appear on the visible site. The only way I had to force the cache to refresh, was to email the dev. This made me start looking again.&lt;/p&gt;
 &lt;h3 id=&#34;the-present&#34;&gt;The Present&lt;/h3&gt;
-&lt;p&gt;I&amp;rsquo;m not going into all the different tools I looked at. That can be a whole blog post on it&amp;rsquo;s own. And I already kinda wrote it. You can read that &lt;a href=&#34;https://nthp.me/posts/new-new-site/&#34;&gt;here&lt;/a&gt;. This site, is using three main components. Hugo, Simple.CSS, and Github Pages. Hugo is what generates my site. When I want to make a post. I write it as an MD file. Then I have have Hugo generate the entire website. Boom, website.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m not going into all the different tools I looked at. That can be a whole blog post on it&amp;rsquo;s own. And I already kinda wrote it. You can read that &lt;a href=&#34;https://nthp.me/posts/new-new-site/&#34; target=&#34;_blank&#34;&gt;
+  here
+&lt;/a&gt;
+. This site, is using three main components. Hugo, Simple.CSS, and Github Pages. Hugo is what generates my site. When I want to make a post. I write it as an MD file. Then I have have Hugo generate the entire website. Boom, website.&lt;/p&gt;
 &lt;p&gt;By default, that website would look, kinda bad. To make the site site look better, I use Simple.CSS. Simple.CSS is great for two main reasons. 1. It look pretty good and professional. And 2. I don&amp;rsquo;t have to learn CSS to use it, and that makes my happy.&lt;/p&gt;
 &lt;p&gt;Unlike with the previous systems. That fancy site I made, lives only on my Mac&amp;hellip; That&amp;rsquo;s&amp;hellip; kinda an issue. Lucky I had a couple of options. I ended up going with Github Pages, as I already use Github, and it&amp;rsquo;s free. Yep, free static site hosting. This dropped my costs for my blog from $4/month, to nothing.&lt;/p&gt;
 &lt;h3 id=&#34;thoughts-on-all-this&#34;&gt;Thoughts On All This&lt;/h3&gt;
@@ -302,7 +329,10 @@ Subject: &lt;code&gt;RE: Being Lazy With Shortcuts&lt;/code&gt;&lt;/p&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20My%20Website%20Journey&#34;&gt; Reply to this post via email 📬&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For Webmail Users &lt;br&gt;
-Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;
+  reply.13a8f@nthp.me
+&lt;/a&gt;
+&lt;/code&gt;&lt;br&gt;
 Subject: &lt;code&gt;RE: My Website Journey&lt;/code&gt;&lt;/p&gt;
 &lt;/center&gt;
 	  </description>
@@ -317,35 +347,83 @@ Subject: &lt;code&gt;RE: My Website Journey&lt;/code&gt;&lt;/p&gt;
 	  <description>
 		
 		&lt;p&gt;Nov 11, 2023&lt;/p&gt;
-&lt;p&gt;Jump to: &lt;a href=&#34;#need&#34;&gt;What You Need&lt;/a&gt; | &lt;a href=&#34;#domain&#34;&gt;Domain&lt;/a&gt; | &lt;a href=&#34;#host&#34;&gt;Host&lt;/a&gt; | &lt;a href=&#34;#site&#34;&gt;Site&lt;/a&gt; | &lt;a href=&#34;#what-i-use&#34;&gt;What I Use&lt;/a&gt; | &lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jump to: &lt;a href=&#34;#need&#34;&gt;
+  What You Need
+&lt;/a&gt;
+ | &lt;a href=&#34;#domain&#34;&gt;
+  Domain
+&lt;/a&gt;
+ | &lt;a href=&#34;#host&#34;&gt;
+  Host
+&lt;/a&gt;
+ | &lt;a href=&#34;#site&#34;&gt;
+  Site
+&lt;/a&gt;
+ | &lt;a href=&#34;#what-i-use&#34;&gt;
+  What I Use
+&lt;/a&gt;
+ | &lt;a href=&#34;#links&#34;&gt;
+  Links
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;You need a website, plane and simple. But why, you might ask? &lt;br&gt;
 A website, is a place to call your own. A place to make your own. And a place to show off, you.&lt;/p&gt;
 &lt;p&gt;Having a site, not only looks more professional, but also helps you show off your skills, and hobbies. You don&amp;rsquo;t need to have a blog to do this. Even a simple landing page (like my home page), can say a lot about you. Starting a site also isn&amp;rsquo;t hard. You&amp;rsquo;ll just need a few things.&lt;/p&gt;
 &lt;div id=&#34;need&#34;&gt;
-&lt;h1 id=&#34;what-you-need-need&#34;&gt;What You Need &lt;a href=&#34;#need&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;what-you-need-need&#34;&gt;What You Need &lt;a href=&#34;#need&#34;&gt;
+  🔗
+&lt;/a&gt;
+&lt;/h1&gt;
 &lt;aside&gt;
 	Some hosts will take care of the site part for you.
 &lt;/aside&gt;
 &lt;p&gt;You&amp;rsquo;ll need three basic things for your site. A domain (ie a name for your site), A site, and a host for that site.&lt;/p&gt;
 &lt;div id=&#34;domain&#34;&gt;
-&lt;h2 id=&#34;a-domain-domain&#34;&gt;A Domain &lt;a href=&#34;#domain&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;a-domain-domain&#34;&gt;A Domain &lt;a href=&#34;#domain&#34;&gt;
+  🔗
+&lt;/a&gt;
+&lt;/h2&gt;
 &lt;p&gt;A domain, is how people will get to your site. Take mine for example. &lt;code&gt;nthp.me&lt;/code&gt;. A domain is made of two main parts. a second level domain (SLD), and a top level domain (TLD). &lt;code&gt;SLD.TLD&lt;/code&gt;. The SLD is the main part you look for when buying a domain.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s look at a few domain as an example. My domain &lt;code&gt;nthp.me&lt;/code&gt;, the SLD is &lt;code&gt;nthp&lt;/code&gt;. and the TLD is &lt;code&gt;.me&lt;/code&gt;. And with &lt;code&gt;github.com&lt;/code&gt;. SLD &lt;code&gt;github&lt;/code&gt;, TLD, &lt;code&gt;.com&lt;/code&gt;. When buying a domain, most people will pick out an SLD. Then, see what TLDs have that SLD available.&lt;/p&gt;
 &lt;p&gt;Buying a domain is pretty easy. You just go to a registrar. Pick an available domain you like. Fill out the paperwork. Pay, and you&amp;rsquo;re done. That domain is now your&amp;rsquo;s, for one year. Don&amp;rsquo;t worry, your registrar will auto renew the domain for you.&lt;/p&gt;
 &lt;p&gt;Most domains cost around $10 - $30 per year.&lt;/p&gt;
 &lt;div id=&#34;host&#34;&gt;
-&lt;h2 id=&#34;a-host-host&#34;&gt;A Host &lt;a href=&#34;#host&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;A host is just the service that makes your site available on the web. Most web hosts combine the &lt;a href=&#34;#site&#34;&gt;site&lt;/a&gt; and &lt;a href=&#34;#host&#34;&gt;host&lt;/a&gt; sections into one. Some however, do not.&lt;/p&gt;
+&lt;h2 id=&#34;a-host-host&#34;&gt;A Host &lt;a href=&#34;#host&#34;&gt;
+  🔗
+&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;A host is just the service that makes your site available on the web. Most web hosts combine the &lt;a href=&#34;#site&#34;&gt;
+  site
+&lt;/a&gt;
+ and &lt;a href=&#34;#host&#34;&gt;
+  host
+&lt;/a&gt;
+ sections into one. Some however, do not.&lt;/p&gt;
 &lt;p&gt;Hosting comes in a wide rage of prices, and capabilities. You can pay anywhere from $18/month for a beginner friendly host. All the way down to $0/month (yes, really), if you&amp;rsquo;re down to do a lot of it yourself. If you are fine with paying a little per month. There are two good options for around $5/month.&lt;/p&gt;
 &lt;h4 id=&#34;wordpress&#34;&gt;Wordpress&lt;/h4&gt;
-&lt;p&gt;Wordpress comes in two main flavors. The &lt;a href=&#34;https://wordpress.com&#34;&gt;software as a service version&lt;/a&gt;. And the &lt;a href=&#34;https://wordpress.org&#34;&gt;Self host-able version&lt;/a&gt;. With the SaaS version, Wordpress will do the hosting for you. This starts at $6/month. Though, if you want more features, you&amp;rsquo;ll have to pay more per month.&lt;/p&gt;
-&lt;p&gt;The Self host-able version, is free. You just need to host it yourself. A good and cheep way to do this, is by using &lt;a href=&#34;https://linode.com&#34;&gt;Linode&lt;/a&gt;&amp;rsquo;s nanode server plan. The nanode only costs $5/month. Linode also has a Wordpress install script. Just fill out the form, and boom, Wordpress!&lt;/p&gt;
+&lt;p&gt;Wordpress comes in two main flavors. The &lt;a href=&#34;https://wordpress.com&#34; target=&#34;_blank&#34;&gt;
+  software as a service version
+&lt;/a&gt;
+. And the &lt;a href=&#34;https://wordpress.org&#34; target=&#34;_blank&#34;&gt;
+  Self host-able version
+&lt;/a&gt;
+. With the SaaS version, Wordpress will do the hosting for you. This starts at $6/month. Though, if you want more features, you&amp;rsquo;ll have to pay more per month.&lt;/p&gt;
+&lt;p&gt;The Self host-able version, is free. You just need to host it yourself. A good and cheep way to do this, is by using &lt;a href=&#34;https://linode.com&#34; target=&#34;_blank&#34;&gt;
+  Linode
+&lt;/a&gt;
+&amp;rsquo;s nanode server plan. The nanode only costs $5/month. Linode also has a Wordpress install script. Just fill out the form, and boom, Wordpress!&lt;/p&gt;
 &lt;h4 id=&#34;blotim&#34;&gt;Blot.im&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://blot.im&#34;&gt;Blot&lt;/a&gt; is a simple web host. You write some files using Markdown. Sync those to Blot, and you have a site. Unlike Wordpress SaaS, blot doesn&amp;rsquo;t have any feature tiers. $4/month will get you everything it has to offer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blot.im&#34; target=&#34;_blank&#34;&gt;
+  Blot
+&lt;/a&gt;
+ is a simple web host. You write some files using Markdown. Sync those to Blot, and you have a site. Unlike Wordpress SaaS, blot doesn&amp;rsquo;t have any feature tiers. $4/month will get you everything it has to offer.&lt;/p&gt;
 &lt;h4 id=&#34;the-free-way&#34;&gt;The Free Way&lt;/h4&gt;
 &lt;p&gt;Web hosts that don&amp;rsquo;t charge, usually do only that. Host. You&amp;rsquo;ll need ⬇️⬇️⬇️&lt;/p&gt;
 &lt;div id=&#34;site&#34;&gt;
-&lt;h2 id=&#34;a-site-site&#34;&gt;A Site &lt;a href=&#34;#site&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;a-site-site&#34;&gt;A Site &lt;a href=&#34;#site&#34;&gt;
+  🔗
+&lt;/a&gt;
+&lt;/h2&gt;
 &lt;p&gt;If you choose a host that makes you bring your own site. You&amp;rsquo;ll have to make one on your own. You have two main options for that.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -356,32 +434,86 @@ A website, is a place to call your own. A place to make your own. And a place to
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;I generally don&amp;rsquo;t recommend number one, if you want something more than a single page site.&lt;/p&gt;
-&lt;p&gt;If you want something bigger than a single page site. I highly recommend you use a static site generator (SSG). A static site generator, takes easy to write files (usually Markdown), and turn them into a ready to go site. There are three main ones to choose from. &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, &lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;, and &lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt;. Of these, I would recommend starting out with either Jekyll, or Hugo.&lt;/p&gt;
+&lt;p&gt;If you want something bigger than a single page site. I highly recommend you use a static site generator (SSG). A static site generator, takes easy to write files (usually Markdown), and turn them into a ready to go site. There are three main ones to choose from. &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;
+  Hugo
+&lt;/a&gt;
+, &lt;a href=&#34;https://jekyllrb.com&#34; target=&#34;_blank&#34;&gt;
+  Jekyll
+&lt;/a&gt;
+, and &lt;a href=&#34;https://www.11ty.dev&#34; target=&#34;_blank&#34;&gt;
+  11ty
+&lt;/a&gt;
+. Of these, I would recommend starting out with either Jekyll, or Hugo.&lt;/p&gt;
 &lt;div id=&#34;what-i-use&#34;&gt;
-&lt;h1 id=&#34;what-i-use-what-i-use&#34;&gt;What I use &lt;a href=&#34;#what-i-use&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;This site is generated using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; locally on my Mac. For hosting I use &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;. This combo allows me a lot of flexibility on how I want my site to look. The main downside, is I have to do almost all the work my self. The upside to that. This site costs me $0/month to host.&lt;/p&gt;
+&lt;h1 id=&#34;what-i-use-what-i-use&#34;&gt;What I use &lt;a href=&#34;#what-i-use&#34;&gt;
+  🔗
+&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This site is generated using &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;
+  Hugo
+&lt;/a&gt;
+ locally on my Mac. For hosting I use &lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34;&gt;
+  Github Pages
+&lt;/a&gt;
+. This combo allows me a lot of flexibility on how I want my site to look. The main downside, is I have to do almost all the work my self. The upside to that. This site costs me $0/month to host.&lt;/p&gt;
 &lt;div id=&#34;links&#34;&gt;
-&lt;h1 id=&#34;links-to-start-your-journey-links&#34;&gt;Links To Start Your Journey &lt;a href=&#34;#links&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;links-to-start-your-journey-links&#34;&gt;Links To Start Your Journey &lt;a href=&#34;#links&#34;&gt;
+  🔗
+&lt;/a&gt;
+&lt;/h1&gt;
 &lt;h3 id=&#34;domain-registrar&#34;&gt;Domain Registrar&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://hover.com&#34;&gt;Hover&lt;/a&gt; &amp;lt;- What I use&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.godaddy.com&#34;&gt;GoDaddy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hover.com&#34; target=&#34;_blank&#34;&gt;
+  Hover
+&lt;/a&gt;
+ &amp;lt;- What I use&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.godaddy.com&#34; target=&#34;_blank&#34;&gt;
+  GoDaddy
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;site-generators&#34;&gt;Site Generators&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; &amp;lt;- What I use&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;
+  Hugo
+&lt;/a&gt;
+ &amp;lt;- What I use&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jekyllrb.com&#34; target=&#34;_blank&#34;&gt;
+  Jekyll
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.11ty.dev&#34; target=&#34;_blank&#34;&gt;
+  11ty
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;web-hosts&#34;&gt;Web Hosts&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt; &amp;lt;- What I use&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/user/project/pages/&#34;&gt;Gitlab Pages&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://blot.im&#34;&gt;Blot.im&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wordpress.org&#34;&gt;Wordpress Selfhost&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wordpress.com&#34;&gt;Wordpress SaaS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34;&gt;
+  Github Pages
+&lt;/a&gt;
+ &amp;lt;- What I use&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/user/project/pages/&#34; target=&#34;_blank&#34;&gt;
+  Gitlab Pages
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blot.im&#34; target=&#34;_blank&#34;&gt;
+  Blot.im
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org&#34; target=&#34;_blank&#34;&gt;
+  Wordpress Selfhost
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.com&#34; target=&#34;_blank&#34;&gt;
+  Wordpress SaaS
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Note: &lt;strong&gt;None&lt;/strong&gt; of these links are affiliate links&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20You%20Need%20a%20Website&#34;&gt; Reply to this post via email 📨&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For Webmail Users &lt;br&gt;
-Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;
+  reply.13a8f@nthp.me
+&lt;/a&gt;
+&lt;/code&gt;&lt;br&gt;
 Subject: &lt;code&gt;RE: You Need a Website&lt;/code&gt;&lt;/p&gt;
 &lt;/center&gt;
 	  </description>
@@ -398,19 +530,43 @@ Subject: &lt;code&gt;RE: You Need a Website&lt;/code&gt;&lt;/p&gt;
 		&lt;p&gt;Nov 6, 2023&lt;/p&gt;
 &lt;p&gt;Welp, this was a pain.&lt;/p&gt;
 &lt;p&gt;Over the past few days, I have been working on moving my website. Why you might ask? Let&amp;rsquo;s go over that.&lt;/p&gt;
-&lt;p&gt;For a while, I was hosting this site on &lt;a href=&#34;https://blot.im&#34;&gt;blot.im&lt;/a&gt;. Blot basically takes a bunch of markdown files you send them, and turns them into a website. I was a big fan of this. Simple, easy, and flexible. However, I started running into problems.&lt;/p&gt;
+&lt;p&gt;For a while, I was hosting this site on &lt;a href=&#34;https://blot.im&#34; target=&#34;_blank&#34;&gt;
+  blot.im
+&lt;/a&gt;
+. Blot basically takes a bunch of markdown files you send them, and turns them into a website. I was a big fan of this. Simple, easy, and flexible. However, I started running into problems.&lt;/p&gt;
 &lt;p&gt;When you send MD files to blot, blot will cache the files, and build a site out of them. Every now and then, that cache would get stuck. You could push new files, but they wouldn&amp;rsquo;t appear on the visible site. The only way I had to force the cache to refresh, was to email the dev.&lt;/p&gt;
 &lt;h2 id=&#34;moving-to-something-new&#34;&gt;Moving to Something New&lt;/h2&gt;
-&lt;p&gt;After some thinking, I decided to go with a static site. I&amp;rsquo;ll generate the site on my mac, then push it to a host. The first tool I tried out was &lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt; After a bunch of work, I got a super basic site up and running with &lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt; However, I didn&amp;rsquo;t like it. &lt;a href=&#34;https://www.11ty.dev&#34;&gt;11ty&lt;/a&gt; is written in Java Script, and I really don&amp;rsquo;t like Java Script.&lt;/p&gt;
-&lt;p&gt;The next tool I tried was &lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;. Jekyll looked way nicer to work with. There was just one tiny problem. Ruby 3.1.3 didn&amp;rsquo;t want to compile on my mac. So that was out.&lt;/p&gt;
-&lt;p&gt;The tool that I went with (as you can see in the footer), is &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. Hugo, ships as a Go binary. This fixes the issue I had with Jekyll, and 11ty. Nothing to compile, and it&amp;rsquo;s not Java Script. I&amp;rsquo;m not going to go into how to use Hugo, as I&amp;rsquo;m still learning it.&lt;/p&gt;
-&lt;p&gt;As for hosting, I&amp;rsquo;m using &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;. All I have to do, is drop the built site into a folder. and push that to Github.&lt;/p&gt;
+&lt;p&gt;After some thinking, I decided to go with a static site. I&amp;rsquo;ll generate the site on my mac, then push it to a host. The first tool I tried out was &lt;a href=&#34;https://www.11ty.dev&#34; target=&#34;_blank&#34;&gt;
+  11ty
+&lt;/a&gt;
+ After a bunch of work, I got a super basic site up and running with &lt;a href=&#34;https://www.11ty.dev&#34; target=&#34;_blank&#34;&gt;
+  11ty
+&lt;/a&gt;
+ However, I didn&amp;rsquo;t like it. &lt;a href=&#34;https://www.11ty.dev&#34; target=&#34;_blank&#34;&gt;
+  11ty
+&lt;/a&gt;
+ is written in Java Script, and I really don&amp;rsquo;t like Java Script.&lt;/p&gt;
+&lt;p&gt;The next tool I tried was &lt;a href=&#34;https://jekyllrb.com&#34; target=&#34;_blank&#34;&gt;
+  Jekyll
+&lt;/a&gt;
+. Jekyll looked way nicer to work with. There was just one tiny problem. Ruby 3.1.3 didn&amp;rsquo;t want to compile on my mac. So that was out.&lt;/p&gt;
+&lt;p&gt;The tool that I went with (as you can see in the footer), is &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;
+  Hugo
+&lt;/a&gt;
+. Hugo, ships as a Go binary. This fixes the issue I had with Jekyll, and 11ty. Nothing to compile, and it&amp;rsquo;s not Java Script. I&amp;rsquo;m not going to go into how to use Hugo, as I&amp;rsquo;m still learning it.&lt;/p&gt;
+&lt;p&gt;As for hosting, I&amp;rsquo;m using &lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34;&gt;
+  Github Pages
+&lt;/a&gt;
+. All I have to do, is drop the built site into a folder. and push that to Github.&lt;/p&gt;
 &lt;p&gt;The best part of all of this. My hosting costs have gone from $4/month, to $0/month.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m still not done yet. The main thing remaining to to move all of my old posts over. That&amp;rsquo;s going to take a bit. I&amp;rsquo;ll get there though.&lt;/p&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20New%20New%20Site&#34;&gt; Reply to this post via email ✉️&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For Webmail Users &lt;br&gt;
-Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;
+  reply.13a8f@nthp.me
+&lt;/a&gt;
+&lt;/code&gt;&lt;br&gt;
 Subject: &lt;code&gt;RE: New New Site&lt;/code&gt;&lt;/p&gt;
 &lt;/center&gt;
 	  </description>
@@ -425,7 +581,10 @@ Subject: &lt;code&gt;RE: New New Site&lt;/code&gt;&lt;/p&gt;
 	  <description>
 		
 		&lt;p&gt;Oct 26, 2023&lt;/p&gt;
-&lt;p&gt;For the past month, I&amp;rsquo;ve been running analytics on both of my websites. The service I&amp;rsquo;ve been using for this is &lt;a href=&#34;https://plausible.io/&#34;&gt;Plausible.io&lt;/a&gt;. I went with them for a couple of reasons. Mainly, they didn&amp;rsquo;t look hungry for personal data. I&amp;rsquo;ve been enjoying them quite a lot. They have a good, very easy to use interface. That&amp;rsquo;s also not over whelming. But, I&amp;rsquo;m going to be turning analytics off, at least for now.&lt;/p&gt;
+&lt;p&gt;For the past month, I&amp;rsquo;ve been running analytics on both of my websites. The service I&amp;rsquo;ve been using for this is &lt;a href=&#34;https://plausible.io/&#34; target=&#34;_blank&#34;&gt;
+  Plausible.io
+&lt;/a&gt;
+. I went with them for a couple of reasons. Mainly, they didn&amp;rsquo;t look hungry for personal data. I&amp;rsquo;ve been enjoying them quite a lot. They have a good, very easy to use interface. That&amp;rsquo;s also not over whelming. But, I&amp;rsquo;m going to be turning analytics off, at least for now.&lt;/p&gt;
 &lt;h2 id=&#34;why-i-started&#34;&gt;Why I started&lt;/h2&gt;
 &lt;p&gt;I started using analytics to simply see how many people were going to my site. As well as from what countries. The UK, Poland, Romania, and Czechia, are just a few that have visited my main site. That&amp;rsquo;s what I&amp;rsquo;ve been enjoying the most.&lt;/p&gt;
 &lt;h2 id=&#34;why-im-stopping-for-now&#34;&gt;Why I&amp;rsquo;m stopping, for now&lt;/h2&gt;
@@ -435,7 +594,10 @@ Subject: &lt;code&gt;RE: New New Site&lt;/code&gt;&lt;/p&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Turning%20Off%20Analytics%20For%20Now&#34;&gt; Reply to this post via email 📮&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For Webmail Users &lt;br&gt;
-Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;
+  reply.13a8f@nthp.me
+&lt;/a&gt;
+&lt;/code&gt;&lt;br&gt;
 Subject: &lt;code&gt;RE: Turning Off Analytics For Now&lt;/code&gt;&lt;/p&gt;
 &lt;/center&gt;
 	  </description>
