@@ -90,7 +90,7 @@ Subject: &lt;code&gt;RE: My Home Lab&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Ubiquity has rolled out support for PPSK (Private Pre Shared Keys). That let&amp;rsquo;s you have multiple networks, behind one SSID. This is handy, as having too many SSIDs can hurt performance.&lt;/p&gt;
 &lt;p&gt;What PPKS does, is let you automatically put a host on a VLAN, depending on what password they use. For example, let&amp;rsquo;s say we have a WiFi network called &amp;ldquo;BullsEyeWiFi&amp;rdquo;. We can set up PPSK so that anyone who uses the password &amp;ldquo;GoodPassw0rd1!&amp;rdquo;, will be put on VLAN 1. And anyone who uses the password &amp;ldquo;Playground&amp;rdquo;, will get put on VLAN 2.&lt;/p&gt;
 &lt;p&gt;Now that&amp;rsquo;s a pretty business example. A more home user example would be: Having a segregated guest network, on the same SSID as your main one. This way, you can put your house guests on a guest network, without them having any idea. And thus, keeping them as friends.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://nthp.me/pics/guestnetwork/fig1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nthp.me/pics/guestnetwork/fig1.webP&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Heres a good video from Cameron Gray Going over PPSK on UNiFi. And its downside (It doesn&amp;rsquo;t work on WPA3 networks (That includes 6GHz networks)).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DvhU7roLviY&amp;amp;t=1228s&#34; target=&#34;_blank&#34;&gt;
   https://www.youtube.com/watch?v=DvhU7roLviY&amp;amp;t=1228s
