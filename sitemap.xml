@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nthp.me/posts/my-regular-watches/</loc>
-    <lastmod>2024-01-01T21:40:52-05:00</lastmod>
+    <loc>https://nthp.me/tags/movies/</loc>
+    <lastmod>2024-01-03T16:23:54-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/tags/</loc>
+    <lastmod>2024-01-03T16:23:54-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/tags/wonka/</loc>
+    <lastmod>2024-01-03T16:23:54-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/posts/wonka/</loc>
+    <lastmod>2024-01-03T16:23:54-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/posts/my-regular-watches/</loc>
     <lastmod>2024-01-01T21:40:52-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/tags/watches/</loc>
