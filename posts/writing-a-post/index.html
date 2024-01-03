@@ -64,10 +64,7 @@
   <p>Nov 14, 2023</p>
 <p>Posting on a static site is interesting. You don’t fire up a website and start typing. Nor do you just drag and drop photos. You have to make the whole web page, yourself. It’s not that hard. Though, it can be confusing if you’re used to a CMS. Here’s my work flow.</p>
 <h2 id="writing">Writing</h2>
-<p>I start off by firing up <a href="https://nova.app" target="_blank">
-  Nova
-</a>
-. In it I have three projects for this site. Dev, Pub, and Prod. Dev, is where I do all my work. Pub, is a public snapshot of Dev that gets updated when changes are pushed to Prod. Prod, is production. This is where Github serves the site from. Pushing changes to here will cause Github to automatically redeploy the site, with those changes.</p>
+<p>I start off by firing up <a href="https://nova.app">Nova</a>. In it I have three projects for this site. Dev, Pub, and Prod. Dev, is where I do all my work. Pub, is a public snapshot of Dev that gets updated when changes are pushed to Prod. Prod, is production. This is where Github serves the site from. Pushing changes to here will cause Github to automatically redeploy the site, with those changes.</p>
 <p>Drafts are written in Dev, so I open up that project. I start off by running the command <code>hugo new content posts/&lt;filename&gt;.md</code>. Why do this rather than just making a new file? Simple, running this will pre-fill the file with stuff I don’t want to type.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Markdown" data-lang="Markdown"><span style="display:flex;"><span>+++
 </span></span><span style="display:flex;"><span>title = &#39;Writing a Post&#39;
@@ -80,10 +77,7 @@
 </span></span><span style="display:flex;"><span>!!SET DRAFT FLAG!!
 </span></span></code></pre></div><p>There are two main things here. The first is at the top. That&rsquo;s the front mater for this post. It basically tells Hugo about the post. Title, publishing date, and whether or not it it’s a draft. The second thing, is a bunch of reminders. These remind me to 1. Set the publishing date on the page. 2. Set the publishing date in the front mater. And 3. Set the draft flag so it can be published.</p>
 <p>After the file is created, I then run <code>hugo server -D</code>. This will start a local web server with my site. That way I can see exactly how my post will look, before I push it to Prod. And then, I write.</p>
-<p>The post files are written in Markdown. A super easy to learn (and read) markup language. You can see an example by looking at this site’s <a href="https://github.com/nathnp/Nathans-site" target="_blank">
-  public repo
-</a>
- on Github. Things get a little interesting when it comes to images, and replies.</p>
+<p>The post files are written in Markdown. A super easy to learn (and read) markup language. You can see an example by looking at this site’s <a href="https://github.com/nathnp/Nathans-site">public repo</a> on Github. Things get a little interesting when it comes to images, and replies.</p>
 <h3 id="adding-images">Adding Images</h3>
 <p>Images can be a minor pain at first, till you get the hang of it. First, you need an image. In Hugo, images go in the <code>static</code> folder. To help with organization, I also use sub folders. <code>static/pics/&lt;post name&gt;/</code>. Pictures will get named <code>fig&lt;number&gt;</code>, and gifs will get named <code>gif&lt;number&gt;</code>. Now I can easily call the image using Markdown in the post.</p>
 <p><code>![](/pics/writing-a-post/fig1.webP)</code><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
@@ -111,10 +105,7 @@
 <center>
 <p><a class="button" href="mailto:reply.13a8f@nthp.me?subject=RE%3A%20Writing%20a%20Post"> Reply to this post via email 📮</a></p>
 <p>For Webmail Users <br>
-Address: <code><a href="mailto:reply.13a8f@nthp.me">
-  reply.13a8f@nthp.me
-</a>
-</code><br>
+Address: <code><a href="mailto:reply.13a8f@nthp.me">reply.13a8f@nthp.me</a></code><br>
 Subject: <code>RE: Writing a Post</code></p>
 </center>
 <div class="footnotes" role="doc-endnotes">
