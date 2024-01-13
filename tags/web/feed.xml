@@ -6,7 +6,106 @@
 	<description>Recent content in Web on Nathan&#39;s Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sat, 23 Dec 2023 20:06:34 -0500</lastBuildDate><atom:link href="https://nthp.me/tags/web/feed.xml" rel="self" type="application/rss" />
+	<lastBuildDate>Sat, 13 Jan 2024 00:32:43 -0500</lastBuildDate><atom:link href="https://nthp.me/tags/web/feed.xml" rel="self" type="application/rss" />
+	<item>
+	  <title>Why Not to go Static</title>
+	  <link>https://nthp.me/posts/why-not-to-go-static/</link>
+	  <pubDate>Sat, 13 Jan 2024 00:32:43 -0500</pubDate>
+	  
+	  <guid>https://nthp.me/posts/why-not-to-go-static/</guid>
+	  <description>
+		
+		&lt;p&gt;Jan 13, 2024&lt;/p&gt;
+&lt;p&gt;If you’re just getting into blogging. The idea of a static site sounds pretty great. Crazy fast load times for your readers. Complete control over the site’s design. And anywhere from dirt cheep, to free hosting.&lt;/p&gt;
+&lt;p&gt;The problem is, you have to do all the work yourself. You might be thinking, that’s no problem, I’ll just drag and drop some elements in and be good to go, right? Nope, fire up your favorite text editor, and start typing.&lt;/p&gt;
+&lt;p&gt;If you have no experience in web design, or scripting. Then a static site will have a monumental learning curve. For example, here’s the layout file for the page that lists all of my posts.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-HTML&#34; data-lang=&#34;HTML&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{- define &amp;#34;main&amp;#34; -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;{{- .Title -}} 📝&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {{- .Content -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {{- $counter := 0 -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {{- range .Pages -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {{- $counter = add $counter 1 -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	{{- if eq $counter 1 -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;center&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;code&lt;/span&gt;&amp;gt;Latest&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;code&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;center&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	{{- end -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;article&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{- .RelPermalink -}}&amp;#34;&lt;/span&gt;&amp;gt;{{- .LinkTitle -}}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;br&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	{{- if .Page.Params.subtitle -}}&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;sub&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;sub&lt;/span&gt;&amp;gt;{{- .Page.Params.subtitle -}}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;sub&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;sub&lt;/span&gt;&amp;gt;{{- end -}}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;hr&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	🏷️: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	{{- if .Params.tags -}} 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	  {{- range .Params.tags -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	  | &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ &amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;tags&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;/&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;relLangURL&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}}{{&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;.&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;urlize&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}}&amp;#34;&lt;/span&gt;&amp;gt;{{ . }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	  {{ end }}|
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	  {{ else }}No Tags 😢
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	  {{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;br&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	⏱️: &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;code&lt;/span&gt;&amp;gt;{{ printf &amp;#34;%d&amp;#34; .ReadingTime }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;code&lt;/span&gt;&amp;gt; minutes&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;br&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	{{- $dateMachine := .Date | time.Format &amp;#34;2006-01-02T15:04:05-07:00&amp;#34; -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	{{- $dateHuman := .Date | time.Format &amp;#34;Jan 2, 2006&amp;#34; -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	🗓️: &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;time&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;datetime&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{- $dateMachine -}}&amp;#34;&lt;/span&gt;&amp;gt;{{- $dateHuman -}}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;time&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;article&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {{- if eq $counter 1 -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;br&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;hr&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;br&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {{- end -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {{- end -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{- end -}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To be fair. Once you have a layout file that does what you want, you don’t do much with it. Maybe tinker with it every now and then. So as a better example, let’s go over something you’ll do pretty often on a blog, posting.&lt;/p&gt;
+&lt;p&gt;For this, let’s compare two different setups. First will by my workflow (static site). And second, will be with &lt;a href=&#34;https://write.as&#34;&gt;write.as&lt;/a&gt; (a very beginner friendly platform).&lt;/p&gt;
+&lt;h2 id=&#34;my-workflow&#34;&gt;My Workflow&lt;/h2&gt;
+&lt;p&gt;It starts with opening up my text editor of choice. In this case, Nova. Once I have the project opened, the first thing I’ll do is fire up a debug server&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. I have that mapped to the run button in Nova. Then, I’ll start a new post.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&#39;https://nthp.me/pics/why-not-to-go-static/fig1.webp&#39;/&gt;
+	&lt;figcaption&gt;Nova&lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;p&gt;I have Nova split into three panes. The left one is a file browser, middle is where I edit files, and on the right, a web browser, for viewing the output of the debug server. To make a new post, I’ll open a terminal in the middle, and run this command.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hugo new content posts/Test-Post.md&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This will make a new file in the posts folder named Test-Post.md. It will also pre-fill the file with its front matter(information about the file).  And then, I write.&lt;/p&gt;
+&lt;p&gt;If I want to add a photo, oh man, that takes work. First, I get the pictures I want all in one place. Then I’ll resize them to around 1000px tall. After that I’ll run a script that converts them all to webp, and adds a touch of compression.&lt;/p&gt;
+&lt;p&gt;The images will get moved to a folder for that post. In this case static/pics/Test-Post. Then I can call them in the post, with some HTML.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-HTML&#34; data-lang=&#34;HTML&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;figure&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;img&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;src&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;/pics/why-not-to-go-static/fig1.webp&amp;#39;&lt;/span&gt;/&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;figcaption&lt;/span&gt;&amp;gt;Nova&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;figcaption&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;figure&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Posting the post (like everything else here) takes some work. First I’ll click the build button in Nova. This will spit out a ready to serve web directory in the public folder. Then I’ll copy the contents to another folder, and push that to GitHub. GitHub will then, redeploy my site, with the new content.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&#39;https://nthp.me/pics/why-not-to-go-static/fig2.webp&#39;/&gt;
+	&lt;figcaption&gt;GitHub deploying my site&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;That&amp;rsquo;s a fair bit of work, just for a post. And posting is the easy part.&lt;/p&gt;
+&lt;h2 id=&#34;the-beginners-route&#34;&gt;The Beginners Route&lt;/h2&gt;
+&lt;p&gt;If that last section is putting you off from blogging, don’t let it. A static site is just one of many way to host a blog. If you’re just getting started, let’s go over posting on &lt;a href=&#34;https://write.as&#34;&gt;write.as&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Write.as is where my blog originally started. I went with it because of how easy it was to get up in running. Yes it cost a little per month, but, you don’t have to do much work because of that.&lt;/p&gt;
+&lt;p&gt;To write a post, you simply log in, and write. Formatting is done with markdown (a super easy to learn formatting system). If you want to add an image, you just upload it to &lt;a href=&#34;https://snap.as&#34;&gt;snap.as&lt;/a&gt; (write.as’s image host) and paste the provided markdown. When you’re ready to post, you just click post. That’s it.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&#39;https://nthp.me/pics/why-not-to-go-static/fig3.webp&#39;/&gt;
+	&lt;figcaption&gt;The first version of my blog&lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;p&gt;Yeah, you don’t have much control of how things look (you can set custom CSS). But, you also don’t have to learn web design.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A static site seams like the perfect way to blog (and for many, it is). But, they take a lot of work, and head banging, to set up. But, it shouldn&amp;rsquo;t be your first blogging setup. No one said, you can&amp;rsquo;t switch your blog to something else.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;a class=&#34;button&#34; href=&#34;mailto:reply.13a8f@nthp.me?subject=RE%3A%20Why%20Not%20to%20go%20Static&#34;&gt; Reply to this post via email 📬&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For Webmail Users &lt;br&gt;
+Address: &lt;code&gt;&lt;a href=&#34;mailto:reply.13a8f@nthp.me&#34;&gt;reply.13a8f@nthp.me&lt;/a&gt;&lt;/code&gt;&lt;br&gt;
+Subject: &lt;code&gt;RE: Why Not to go Static&lt;/code&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This will let me see how my site will look, as I work on it.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
+	</item>
+	
 	<item>
 	  <title>A Basic Site Template</title>
 	  <link>https://nthp.me/posts/a-basic-site-template/</link>

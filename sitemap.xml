@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nthp.me/posts/puking-in-vr/</loc>
-    <lastmod>2024-01-10T19:08:32-05:00</lastmod>
-  </url><url>
     <loc>https://nthp.me/tags/</loc>
+    <lastmod>2024-01-13T00:32:43-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/tags/web/</loc>
+    <lastmod>2024-01-13T00:32:43-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/posts/why-not-to-go-static/</loc>
+    <lastmod>2024-01-13T00:32:43-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/posts/puking-in-vr/</loc>
     <lastmod>2024-01-10T19:08:32-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/tags/vr/</loc>
@@ -60,9 +66,6 @@
     <lastmod>2023-12-26T17:54:03-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/a-basic-site-template/</loc>
-    <lastmod>2023-12-23T20:06:34-05:00</lastmod>
-  </url><url>
-    <loc>https://nthp.me/tags/web/</loc>
     <lastmod>2023-12-23T20:06:34-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/tags/monitors/</loc>
