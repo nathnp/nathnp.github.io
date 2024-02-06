@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nthp.me/tags/</loc>
+    <lastmod>2024-02-05T19:28:00-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/tags/vision-pro/</loc>
+    <lastmod>2024-02-05T19:28:00-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/posts/vision-pro-demo/</loc>
+    <lastmod>2024-02-05T19:28:00-05:00</lastmod>
+  </url><url>
     <loc>https://nthp.me/tags/denver-2024/</loc>
     <lastmod>2024-01-17T19:57:55-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/tags/skiing/</loc>
-    <lastmod>2024-01-17T19:57:55-05:00</lastmod>
-  </url><url>
-    <loc>https://nthp.me/tags/</loc>
     <lastmod>2024-01-17T19:57:55-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/the-prep-run/</loc>
