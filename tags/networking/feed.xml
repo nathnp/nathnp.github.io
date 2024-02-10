@@ -15,8 +15,7 @@
 	  <guid>https://nthp.me/posts/my-home-lab/</guid>
 	  <description>
 		
-		&lt;p&gt;Dec 5, 2023&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve had a small home lab for a bit. Servers have come and gone, but a few core ones have remained. So let&amp;rsquo;s talk about it, and my home network as well.&lt;/p&gt;
+		&lt;p&gt;I&amp;rsquo;ve had a small home lab for a bit. Servers have come and gone, but a few core ones have remained. So let&amp;rsquo;s talk about it, and my home network as well.&lt;/p&gt;
 &lt;h1 id=&#34;network&#34;&gt;Network&lt;/h1&gt;
 &lt;p&gt;Let&amp;rsquo;s start with the network, as that&amp;rsquo;s the backbone of the everything.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m pretty much all in on UNiFi for networking. My main router is a &lt;a href=&#34;https://ui.com/us/cloud-gateways/dream-router&#34;&gt;UNiFi Dream Router&lt;/a&gt;. The UDR is a home and small business router. With the usual built in switch (though two of the ports are POE), and wireless access point.&lt;/p&gt;
@@ -67,8 +66,7 @@ Subject: &lt;code&gt;RE: My Home Lab&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/secret-guest-network/</guid>
 	  <description>
 		
-		&lt;p&gt;Oct 22, 2023&lt;/p&gt;
-&lt;p&gt;Imagine this, you have some people over, and they want the password to your WiFi. You trust them, but not “you can be on my network” trust them. So you give them the guest network login. They get mad and leave, and now you&amp;rsquo;re down a couple friends. But what if you could have a hidden guest network, that looks just like your main one, maybe that would let you keep some friends.&lt;/p&gt;
+		&lt;p&gt;Imagine this, you have some people over, and they want the password to your WiFi. You trust them, but not “you can be on my network” trust them. So you give them the guest network login. They get mad and leave, and now you&amp;rsquo;re down a couple friends. But what if you could have a hidden guest network, that looks just like your main one, maybe that would let you keep some friends.&lt;/p&gt;
 &lt;p&gt;Ubiquity has rolled out support for PPSK (Private Pre Shared Keys). That let&amp;rsquo;s you have multiple networks, behind one SSID. This is handy, as having too many SSIDs can hurt performance.&lt;/p&gt;
 &lt;p&gt;What PPKS does, is let you automatically put a host on a VLAN, depending on what password they use. For example, let&amp;rsquo;s say we have a WiFi network called &amp;ldquo;BullsEyeWiFi&amp;rdquo;. We can set up PPSK so that anyone who uses the password &amp;ldquo;GoodPassw0rd1!&amp;rdquo;, will be put on VLAN 1. And anyone who uses the password &amp;ldquo;Playground&amp;rdquo;, will get put on VLAN 2.&lt;/p&gt;
 &lt;p&gt;Now that&amp;rsquo;s a pretty business example. A more home user example would be: Having a segregated guest network, on the same SSID as your main one. This way, you can put your house guests on a guest network, without them having any idea. And thus, keeping them as friends.&lt;/p&gt;

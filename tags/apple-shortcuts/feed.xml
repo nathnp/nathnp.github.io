@@ -15,8 +15,7 @@
 	  <guid>https://nthp.me/posts/writing-a-post/</guid>
 	  <description>
 		
-		&lt;p&gt;Nov 14, 2023&lt;/p&gt;
-&lt;p&gt;Posting on a static site is interesting. You don’t fire up a website and start typing. Nor do you just drag and drop photos. You have to make the whole web page, yourself. It’s not that hard. Though, it can be confusing if you’re used to a CMS. Here’s my work flow.&lt;/p&gt;
+		&lt;p&gt;Posting on a static site is interesting. You don’t fire up a website and start typing. Nor do you just drag and drop photos. You have to make the whole web page, yourself. It’s not that hard. Though, it can be confusing if you’re used to a CMS. Here’s my work flow.&lt;/p&gt;
 &lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;
 &lt;p&gt;I start off by firing up &lt;a href=&#34;https://nova.app&#34;&gt;Nova&lt;/a&gt;. In it I have three projects for this site. Dev, Pub, and Prod. Dev, is where I do all my work. Pub, is a public snapshot of Dev that gets updated when changes are pushed to Prod. Prod, is production. This is where Github serves the site from. Pushing changes to here will cause Github to automatically redeploy the site, with those changes.&lt;/p&gt;
 &lt;p&gt;Drafts are written in Dev, so I open up that project. I start off by running the command &lt;code&gt;hugo new content posts/&amp;lt;filename&amp;gt;.md&lt;/code&gt;. Why do this rather than just making a new file? Simple, running this will pre-fill the file with stuff I don’t want to type.&lt;/p&gt;
@@ -85,8 +84,7 @@ Subject: &lt;code&gt;RE: Writing a Post&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/being-lazy-with-shortcuts/</guid>
 	  <description>
 		
-		&lt;p&gt;Nov 12, 2023&lt;/p&gt;
-&lt;p&gt;At the bottom of every post. I have a reply via email button. This button does three main things. 1. It opens your default email client, 2. It pre fills the To field for you, and 3. It pre fills the subject.&lt;/p&gt;
+		&lt;p&gt;At the bottom of every post. I have a reply via email button. This button does three main things. 1. It opens your default email client, 2. It pre fills the To field for you, and 3. It pre fills the subject.&lt;/p&gt;
 &lt;p&gt;This is the HTML for the reply button in this post&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-HTML&#34; data-lang=&#34;HTML&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;center&lt;/span&gt;&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
@@ -116,8 +114,7 @@ Subject: &lt;code&gt;RE: Being Lazy With Shortcuts&lt;/code&gt;&lt;/p&gt;
 	  <guid>https://nthp.me/posts/stealth-flipper/</guid>
 	  <description>
 		
-		&lt;p&gt;Nov 1, 2023&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s be honest, most flipper users use the flipper to dick around. You know, pop Tesla charge covers, set off CVS alcohol announcements (Bonus points if you do it in a state CVS can&amp;rsquo;t sell alcohol in (Like Maryland)). You know, fun stuff. The Flipper is unfortunately recognizable (Thanks to dumpsters like TikTok). So, if we&amp;rsquo;re going to have some fun in a CVS, or a Tesla store, we need to be a bit sneaky.&lt;/p&gt;
+		&lt;p&gt;Let&amp;rsquo;s be honest, most flipper users use the flipper to dick around. You know, pop Tesla charge covers, set off CVS alcohol announcements (Bonus points if you do it in a state CVS can&amp;rsquo;t sell alcohol in (Like Maryland)). You know, fun stuff. The Flipper is unfortunately recognizable (Thanks to dumpsters like TikTok). So, if we&amp;rsquo;re going to have some fun in a CVS, or a Tesla store, we need to be a bit sneaky.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;NOTE: This post doesn&amp;rsquo;t cover Android, as I don&amp;rsquo;t use that.&lt;/p&gt;
 &lt;/blockquote&gt;
