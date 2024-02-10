@@ -75,8 +75,8 @@
 <p>The post files are written in Markdown. A super easy to learn (and read) markup language. You can see an example by looking at this site’s <a href="https://github.com/nathnp/Nathans-site">public repo</a> on Github. Things get a little interesting when it comes to images, and replies.</p>
 <h3 id="adding-images">Adding Images</h3>
 <p>Images can be a minor pain at first, till you get the hang of it. First, you need an image. In Hugo, images go in the <code>static</code> folder. To help with organization, I also use sub folders. <code>static/pics/&lt;post name&gt;/</code>. Pictures will get named <code>fig&lt;number&gt;</code>, and gifs will get named <code>gif&lt;number&gt;</code>. Now I can easily call the image using Markdown in the post.</p>
-<p><code>![](/pics/writing-a-post/fig1.webP)</code><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
-<code>![](/pics/writing-a-post/gif1.gif)</code><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p><code>![](/posts/writing-a-post/fig1.webP)</code><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
+<code>![](/posts/writing-a-post/gif1.gif)</code><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
 <h3 id="replies">Replies</h3>
 <p>Due to the nature of a static site, comments are a monster pain to do. So many don’t. Besides, who wants to moderate them anyway. So most blogs will have a reply by email button.</p>
 <p>This is added with some simple HTML. Though you might be thinking, that sounds like a pain to put at the end of every post. Well, we can automate its generation. I made a simple Shortcut on my Mac to do exactly that. All I have to do is run it, give it the title, and it will plop ready to paste HTML, into my clipboard.</p>

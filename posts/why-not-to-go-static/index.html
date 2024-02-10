@@ -100,7 +100,7 @@
 <h2 id="my-workflow">My Workflow</h2>
 <p>It starts with opening up my text editor of choice. In this case, Nova. Once I have the project opened, the first thing I’ll do is fire up a debug server<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. I have that mapped to the run button in Nova. Then, I’ll start a new post.</p>
 <figure>
-	<img src='/pics/why-not-to-go-static/fig1.webp'/>
+	<img src='fig1.webp'/>
 	<figcaption>Nova</figcaption>
 </figure> 
 <p>I have Nova split into three panes. The left one is a file browser, middle is where I edit files, and on the right, a web browser, for viewing the output of the debug server. To make a new post, I’ll open a terminal in the middle, and run this command.</p>
@@ -109,12 +109,12 @@
 <p>If I want to add a photo, oh man, that takes work. First, I get the pictures I want all in one place. Then I’ll resize them to around 1000px tall. After that I’ll run a script that converts them all to webp, and adds a touch of compression.</p>
 <p>The images will get moved to a folder for that post. In this case static/pics/Test-Post. Then I can call them in the post, with some HTML.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-HTML" data-lang="HTML"><span style="display:flex;"><span>&lt;<span style="color:#f92672">figure</span>&gt;
-</span></span><span style="display:flex;"><span>	&lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#39;/pics/why-not-to-go-static/fig1.webp&#39;</span>/&gt;
+</span></span><span style="display:flex;"><span>	&lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#39;fig1.webp&#39;</span>/&gt;
 </span></span><span style="display:flex;"><span>	&lt;<span style="color:#f92672">figcaption</span>&gt;Nova&lt;/<span style="color:#f92672">figcaption</span>&gt;
 </span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">figure</span>&gt;
 </span></span></code></pre></div><p>Posting the post (like everything else here) takes some work. First I’ll click the build button in Nova. This will spit out a ready to serve web directory in the public folder. Then I’ll copy the contents to another folder, and push that to GitHub. GitHub will then, redeploy my site, with the new content.</p>
 <figure>
-	<img src='/pics/why-not-to-go-static/fig2.webp'/>
+	<img src='fig2.webp'/>
 	<figcaption>GitHub deploying my site</figcaption>
 </figure>
 <p>That&rsquo;s a fair bit of work, just for a post. And posting is the easy part.</p>
@@ -123,7 +123,7 @@
 <p>Write.as is where my blog originally started. I went with it because of how easy it was to get up in running. Yes it cost a little per month, but, you don’t have to do much work because of that.</p>
 <p>To write a post, you simply log in, and write. Formatting is done with markdown (a super easy to learn formatting system). If you want to add an image, you just upload it to <a href="https://snap.as">snap.as</a> (write.as’s image host) and paste the provided markdown. When you’re ready to post, you just click post. That’s it.</p>
 <figure>
-	<img src='/pics/why-not-to-go-static/fig3.webp'/>
+	<img src='fig3.webp'/>
 	<figcaption>The first version of my blog</figcaption>
 </figure> 
 <p>Yeah, you don’t have much control of how things look (you can set custom CSS). But, you also don’t have to learn web design.</p>
