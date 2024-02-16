@@ -9,10 +9,10 @@
 	<lastBuildDate>Tue, 05 Dec 2023 16:05:33 -0500</lastBuildDate><atom:link href="https://nthp.me/tags/networking/feed.xml" rel="self" type="application/rss" />
 	<item>
 	  <title>My Home Lab</title>
-	  <link>https://nthp.me/posts/my-home-lab/</link>
+	  <link>https://nthp.me/posts/2023/my-home-lab/</link>
 	  <pubDate>Tue, 05 Dec 2023 16:05:33 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/my-home-lab/</guid>
+	  <guid>https://nthp.me/posts/2023/my-home-lab/</guid>
 	  <description>
 		
 		&lt;p&gt;I&amp;rsquo;ve had a small home lab for a bit. Servers have come and gone, but a few core ones have remained. So let&amp;rsquo;s talk about it, and my home network as well.&lt;/p&gt;
@@ -60,10 +60,10 @@ Subject: &lt;code&gt;RE: My Home Lab&lt;/code&gt;&lt;/p&gt;
 	
 	<item>
 	  <title>The Secret Guest Network</title>
-	  <link>https://nthp.me/posts/secret-guest-network/</link>
+	  <link>https://nthp.me/posts/2023/secret-guest-network/</link>
 	  <pubDate>Sun, 22 Oct 2023 22:52:29 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/secret-guest-network/</guid>
+	  <guid>https://nthp.me/posts/2023/secret-guest-network/</guid>
 	  <description>
 		
 		&lt;p&gt;Imagine this, you have some people over, and they want the password to your WiFi. You trust them, but not “you can be on my network” trust them. So you give them the guest network login. They get mad and leave, and now you&amp;rsquo;re down a couple friends. But what if you could have a hidden guest network, that looks just like your main one, maybe that would let you keep some friends.&lt;/p&gt;

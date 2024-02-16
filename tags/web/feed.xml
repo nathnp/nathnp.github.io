@@ -9,10 +9,10 @@
 	<lastBuildDate>Sat, 13 Jan 2024 00:32:43 -0500</lastBuildDate><atom:link href="https://nthp.me/tags/web/feed.xml" rel="self" type="application/rss" />
 	<item>
 	  <title>Why Not to go Static</title>
-	  <link>https://nthp.me/posts/why-not-to-go-static/</link>
+	  <link>https://nthp.me/posts/2024/why-not-to-go-static/</link>
 	  <pubDate>Sat, 13 Jan 2024 00:32:43 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/why-not-to-go-static/</guid>
+	  <guid>https://nthp.me/posts/2024/why-not-to-go-static/</guid>
 	  <description>
 		
 		&lt;p&gt;If you’re just getting into blogging. The idea of a static site sounds pretty great. Crazy fast load times for your readers. Complete control over the site’s design. And anywhere from dirt cheep, to free hosting.&lt;/p&gt;
@@ -107,10 +107,10 @@ Subject: &lt;code&gt;RE: Why Not to go Static&lt;/code&gt;&lt;/p&gt;
 	
 	<item>
 	  <title>A Basic Site Template</title>
-	  <link>https://nthp.me/posts/a-basic-site-template/</link>
+	  <link>https://nthp.me/posts/2023/a-basic-site-template/</link>
 	  <pubDate>Sat, 23 Dec 2023 20:06:34 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/a-basic-site-template/</guid>
+	  <guid>https://nthp.me/posts/2023/a-basic-site-template/</guid>
 	  <description>
 		
 		&lt;p&gt;I have two jobs, one of them is as a cybersecurity TA. One of the projects we have the students do, is to deploy a basic website in an Azure container. While they&amp;rsquo;re working on there site, we discuss the benefits of a personal site, and why they should have at least a basic one. The students can keep their site up if they want&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, but Azure is pricy. So, I had an idea.&lt;/p&gt;
@@ -189,10 +189,10 @@ Subject: &lt;code&gt;RE: A Basic Site Template&lt;/code&gt;&lt;/p&gt;
 	
 	<item>
 	  <title>Adding Tags</title>
-	  <link>https://nthp.me/posts/adding-tags/</link>
+	  <link>https://nthp.me/posts/2023/adding-tags/</link>
 	  <pubDate>Sat, 02 Dec 2023 21:51:37 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/adding-tags/</guid>
+	  <guid>https://nthp.me/posts/2023/adding-tags/</guid>
 	  <description>
 		
 		&lt;p&gt;After a bit of work, a fair bit of reading, and only a few failed builds. I now have post tags working on my site. This was a lot easier than I thought. So let&amp;rsquo;s go over it.&lt;/p&gt;
@@ -258,10 +258,10 @@ Subject: &lt;code&gt;RE: Adding Tags&lt;/code&gt;&lt;/p&gt;
 	
 	<item>
 	  <title>Writing a Post</title>
-	  <link>https://nthp.me/posts/writing-a-post/</link>
+	  <link>https://nthp.me/posts/2023/writing-a-post/</link>
 	  <pubDate>Tue, 14 Nov 2023 18:24:27 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/writing-a-post/</guid>
+	  <guid>https://nthp.me/posts/2023/writing-a-post/</guid>
 	  <description>
 		
 		&lt;p&gt;Posting on a static site is interesting. You don’t fire up a website and start typing. Nor do you just drag and drop photos. You have to make the whole web page, yourself. It’s not that hard. Though, it can be confusing if you’re used to a CMS. Here’s my work flow.&lt;/p&gt;
@@ -327,10 +327,10 @@ Subject: &lt;code&gt;RE: Writing a Post&lt;/code&gt;&lt;/p&gt;
 	
 	<item>
 	  <title>Being Lazy With Shortcuts</title>
-	  <link>https://nthp.me/posts/being-lazy-with-shortcuts/</link>
+	  <link>https://nthp.me/posts/2023/being-lazy-with-shortcuts/</link>
 	  <pubDate>Sun, 12 Nov 2023 17:51:01 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/being-lazy-with-shortcuts/</guid>
+	  <guid>https://nthp.me/posts/2023/being-lazy-with-shortcuts/</guid>
 	  <description>
 		
 		&lt;p&gt;At the bottom of every post. I have a reply via email button. This button does three main things. 1. It opens your default email client, 2. It pre fills the To field for you, and 3. It pre fills the subject.&lt;/p&gt;
@@ -357,10 +357,10 @@ Subject: &lt;code&gt;RE: Being Lazy With Shortcuts&lt;/code&gt;&lt;/p&gt;
 	
 	<item>
 	  <title>My Website Journey</title>
-	  <link>https://nthp.me/posts/my-website-journey/</link>
+	  <link>https://nthp.me/posts/2023/my-website-journey/</link>
 	  <pubDate>Sun, 12 Nov 2023 01:07:04 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/my-website-journey/</guid>
+	  <guid>https://nthp.me/posts/2023/my-website-journey/</guid>
 	  <description>
 		
 		&lt;p&gt;I&amp;rsquo;ve had a blog for a few years now. And over those few years, I&amp;rsquo;ve used a number of different hosting providers.&lt;/p&gt;
@@ -403,10 +403,10 @@ Subject: &lt;code&gt;RE: My Website Journey&lt;/code&gt;&lt;/p&gt;
 	
 	<item>
 	  <title>You Need a Website</title>
-	  <link>https://nthp.me/posts/you-need-a-website/</link>
+	  <link>https://nthp.me/posts/2023/you-need-a-website/</link>
 	  <pubDate>Sat, 11 Nov 2023 13:00:00 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/you-need-a-website/</guid>
+	  <guid>https://nthp.me/posts/2023/you-need-a-website/</guid>
 	  <description>
 		
 		&lt;p&gt;Jump to: &lt;a href=&#34;#need&#34;&gt;What You Need&lt;/a&gt; | &lt;a href=&#34;#domain&#34;&gt;Domain&lt;/a&gt; | &lt;a href=&#34;#host&#34;&gt;Host&lt;/a&gt; | &lt;a href=&#34;#site&#34;&gt;Site&lt;/a&gt; | &lt;a href=&#34;#what-i-use&#34;&gt;What I Use&lt;/a&gt; | &lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/p&gt;
@@ -481,10 +481,10 @@ Subject: &lt;code&gt;RE: You Need a Website&lt;/code&gt;&lt;/p&gt;
 	
 	<item>
 	  <title>New New Site</title>
-	  <link>https://nthp.me/posts/new-new-site/</link>
+	  <link>https://nthp.me/posts/2023/new-new-site/</link>
 	  <pubDate>Mon, 06 Nov 2023 12:44:12 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/new-new-site/</guid>
+	  <guid>https://nthp.me/posts/2023/new-new-site/</guid>
 	  <description>
 		
 		&lt;p&gt;Welp, this was a pain.&lt;/p&gt;
@@ -509,10 +509,10 @@ Subject: &lt;code&gt;RE: New New Site&lt;/code&gt;&lt;/p&gt;
 	
 	<item>
 	  <title>Turning Off Analytics For Now</title>
-	  <link>https://nthp.me/posts/turning-off-analytics/</link>
+	  <link>https://nthp.me/posts/2023/turning-off-analytics/</link>
 	  <pubDate>Thu, 26 Oct 2023 22:51:17 -0500</pubDate>
 	  
-	  <guid>https://nthp.me/posts/turning-off-analytics/</guid>
+	  <guid>https://nthp.me/posts/2023/turning-off-analytics/</guid>
 	  <description>
 		
 		&lt;p&gt;For the past month, I&amp;rsquo;ve been running analytics on both of my websites. The service I&amp;rsquo;ve been using for this is &lt;a href=&#34;https://plausible.io/&#34;&gt;Plausible.io&lt;/a&gt;. I went with them for a couple of reasons. Mainly, they didn&amp;rsquo;t look hungry for personal data. I&amp;rsquo;ve been enjoying them quite a lot. They have a good, very easy to use interface. That&amp;rsquo;s also not over whelming. But, I&amp;rsquo;m going to be turning analytics off, at least for now.&lt;/p&gt;
