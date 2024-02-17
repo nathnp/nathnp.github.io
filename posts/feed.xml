@@ -1343,7 +1343,7 @@ Subject: &lt;code&gt;RE: Deck OLED&lt;/code&gt;&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;title = &amp;#39;Flight Update 3&amp;#39;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;date = 2023-08-21T23:33:55-05:00
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;draft = false
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tags = [&amp;#39;Air Craziness&amp;#39;, &amp;#39;Denver 2022&amp;#39;, &amp;#39;Vacations&amp;#39;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tags = [&amp;#39;Air Craziness&amp;#39;, &amp;#39;Denver 2023&amp;#39;, &amp;#39;Vacations&amp;#39;]
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;+++
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All this does, is tell Hugo what tags a post has. It won&amp;rsquo;t display them for the reader. This is were &lt;code&gt;terms.html&lt;/code&gt; comes in. Terms, basically puts stuff at the bottom of your posts (/pages if you want), for you.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;terms.html&lt;/code&gt;&lt;/p&gt;
