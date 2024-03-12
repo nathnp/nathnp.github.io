@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nthp.me/posts/2024/getting-a-hackrf/</loc>
+    <lastmod>2024-03-11T21:46:48-04:00</lastmod>
+  </url><url>
     <loc>https://nthp.me/tags/hackrf/</loc>
-    <lastmod>2024-03-08T12:59:14-05:00</lastmod>
+    <lastmod>2024-03-11T21:46:48-04:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/2024/hurry-up-usps/</loc>
     <lastmod>2024-03-08T12:59:14-05:00</lastmod>
