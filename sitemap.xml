@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nthp.me/tags/rant/</loc>
+    <lastmod>2024-03-22T11:44:53-04:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/posts/2024/should-everything-work-with-everything/</loc>
+    <lastmod>2024-03-22T11:44:53-04:00</lastmod>
+  </url><url>
     <loc>https://nthp.me/posts/2024/getting-a-hackrf/</loc>
     <lastmod>2024-03-11T21:46:48-04:00</lastmod>
   </url><url>
@@ -9,9 +15,6 @@
     <lastmod>2024-03-11T21:46:48-04:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/2024/hurry-up-usps/</loc>
-    <lastmod>2024-03-08T12:59:14-05:00</lastmod>
-  </url><url>
-    <loc>https://nthp.me/tags/rant/</loc>
     <lastmod>2024-03-08T12:59:14-05:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/2024/canada-bans-the-flipper/</loc>
