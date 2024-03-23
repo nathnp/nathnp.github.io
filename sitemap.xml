@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nthp.me/posts/2024/new-blog/</loc>
+    <lastmod>2024-03-22T13:18:14-04:00</lastmod>
+  </url><url>
     <loc>https://nthp.me/tags/rant/</loc>
     <lastmod>2024-03-22T11:44:53-04:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/2024/should-everything-work-with-everything/</loc>
     <lastmod>2024-03-22T11:44:53-04:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/factorio-blog/2024/kovarex/</loc>
+    <lastmod>2024-03-20T13:21:17-04:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/2024/getting-a-hackrf/</loc>
     <lastmod>2024-03-11T21:46:48-04:00</lastmod>
@@ -280,6 +286,9 @@
   </url><url>
     <loc>https://nthp.me/posts/2023/need-to-immediately-replace/</loc>
     <lastmod>2023-07-02T22:55:39-05:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/factorio-blog/</loc>
+    <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
