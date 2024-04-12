@@ -9,10 +9,10 @@
 	<lastBuildDate>Fri, 12 Apr 2024 18:10:59 -0400</lastBuildDate><atom:link href="https://nthp.me/tags/web/feed.xml" rel="self" type="application/rss" />
 	<item>
 	  <title>To Things From RSS Test Post</title>
-	  <link>https://nthp.me/posts/2024/to-things-from-rss/</link>
+	  <link>https://nthp.me/posts/2024/to-things-from-rss-test-post/</link>
 	  <pubDate>Fri, 12 Apr 2024 18:10:59 -0400</pubDate>
 	  
-	  <guid>https://nthp.me/posts/2024/to-things-from-rss/</guid>
+	  <guid>https://nthp.me/posts/2024/to-things-from-rss-test-post/</guid>
 	  <description>
 		
 		&lt;p&gt;I&amp;rsquo;ve been looking around for a while for a good RSS to [thing] poster. Something that looks at an RSS feed, and when it see a new item, makes a post. I know you can do that with IFTTT, but IFTTT doesn&amp;rsquo;t support Mastodon.&lt;/p&gt;
