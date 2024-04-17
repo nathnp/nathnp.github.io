@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nthp.me/tags/cars/</loc>
+    <lastmod>2024-04-17T14:29:06-04:00</lastmod>
+  </url><url>
+    <loc>https://nthp.me/posts/2024/self-service-test-drive/</loc>
+    <lastmod>2024-04-17T14:29:06-04:00</lastmod>
+  </url><url>
     <loc>https://nthp.me/posts/2024/loosing-what-you-bought/</loc>
     <lastmod>2024-04-13T00:34:08-04:00</lastmod>
   </url><url>
@@ -13,9 +19,6 @@
   </url><url>
     <loc>https://nthp.me/tags/web/</loc>
     <lastmod>2024-04-12T18:10:59-04:00</lastmod>
-  </url><url>
-    <loc>https://nthp.me/tags/cars/</loc>
-    <lastmod>2024-04-08T20:41:11-04:00</lastmod>
   </url><url>
     <loc>https://nthp.me/posts/2024/oil/</loc>
     <lastmod>2024-04-08T20:41:11-04:00</lastmod>
